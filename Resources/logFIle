@@ -1,0 +1,3345 @@
+24-10-2018 16:39:07 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+24-10-2018 16:39:07 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+24-10-2018 16:39:07 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+24-10-2018 16:39:07 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+24-10-2018 16:39:07 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+24-10-2018 16:39:07 DEBUG [main] SortManager - Daniel is amazing
+24-10-2018 16:41:07 INFO [main] SortManager - User has requested - bubble with input of [20, 7, 10, 9, 25]
+24-10-2018 16:41:07 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+24-10-2018 16:41:07 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+24-10-2018 16:41:07 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+24-10-2018 16:41:07 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+24-10-2018 16:41:07 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+24-10-2018 16:41:07 DEBUG [main] SortManager - Daniel is amazing
+24-10-2018 16:41:20 INFO [main] SortManager - User has requested - bubble sort with input of [20, 7, 10, 9, 25]
+24-10-2018 16:41:20 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+24-10-2018 16:41:20 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+24-10-2018 16:41:20 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+24-10-2018 16:41:20 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+24-10-2018 16:41:20 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+24-10-2018 16:41:20 DEBUG [main] SortManager - Daniel is amazing
+24-10-2018 16:45:35 INFO [main] SortManager - User has requested a sort on input of[20, 7, 10, 9, 25]
+24-10-2018 16:45:36 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+24-10-2018 16:45:36 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+24-10-2018 16:45:36 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+24-10-2018 16:45:36 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+24-10-2018 16:45:36 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+24-10-2018 16:45:36 DEBUG [main] SortManager - Daniel is amazing
+24-10-2018 16:45:50 INFO [main] SortManager - User has requested a sort on input of [20, 7, 10, 9, 25]
+24-10-2018 16:45:50 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+24-10-2018 16:45:50 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+24-10-2018 16:45:50 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+24-10-2018 16:45:50 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+24-10-2018 16:45:50 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+24-10-2018 16:45:50 DEBUG [main] SortManager - Daniel is amazing
+24-10-2018 16:46:21 INFO [main] SortManager - User has requested a sort on input of [20, 7, 10, 9, 25]
+24-10-2018 16:46:21 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+24-10-2018 16:46:21 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+24-10-2018 16:46:21 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+24-10-2018 16:46:21 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+24-10-2018 16:46:21 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+24-10-2018 16:46:21 DEBUG [main] SortManager - Daniel is amazing
+
+24-10-2018 16:46:46 INFO [main] SortManager - User has requested a sort on input of [20, 7, 10, 9, 25]
+
+24-10-2018 16:46:46 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+
+24-10-2018 16:46:46 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+
+24-10-2018 16:46:46 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+
+24-10-2018 16:46:46 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+
+24-10-2018 16:46:47 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+
+24-10-2018 16:46:47 DEBUG [main] SortManager - Daniel is amazing
+
+24-10-2018 16:51:29 INFO [main] SortManager - User has requested a sort on input of [20, 7, 10, 9, 25]
+
+24-10-2018 16:51:29 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+
+24-10-2018 16:51:29 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+
+24-10-2018 16:51:29 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+
+24-10-2018 16:51:29 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+
+24-10-2018 16:51:29 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+
+24-10-2018 16:51:29 DEBUG [main] SortManager - Daniel is amazing
+
+24-10-2018 16:54:09 INFO [main] SortManager - User has requested a sort on input of [20, 7, 10, 9, 25]
+
+24-10-2018 16:54:09 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+
+24-10-2018 16:54:09 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+
+24-10-2018 16:54:09 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+
+24-10-2018 16:54:09 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+
+24-10-2018 16:54:09 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+
+24-10-2018 16:54:09 DEBUG [main] SortManager - Daniel is amazing
+
+24-10-2018 16:54:18 INFO [main] SortManager - User has requested a sort on input of [20, 7, 10, 9, 25]
+
+24-10-2018 16:54:18 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 20
+
+24-10-2018 16:54:18 INFO [main] BinaryTree - Node created with value - 10. This is the right child of 7
+
+24-10-2018 16:54:18 INFO [main] BinaryTree - Node created with value - 9. This is the left child of 10
+
+24-10-2018 16:54:18 INFO [main] BinaryTree - Node created with value - 25. This is the right child of 20
+
+24-10-2018 16:54:18 INFO [main] SortView - User has received output of - [7, 9, 10, 20, 25]
+
+24-10-2018 16:54:18 DEBUG [main] SortManager - Daniel is amazing
+
+24-10-2018 16:56:31 DEBUG [main] MergeSorter - [24, 73]
+
+24-10-2018 16:56:31 DEBUG [main] MergeSorter - [98, 99]
+
+24-10-2018 16:56:31 DEBUG [main] MergeSorter - [68, 98, 99]
+
+24-10-2018 16:56:31 DEBUG [main] MergeSorter - [24, 68, 73, 98, 99]
+
+24-10-2018 16:56:31 DEBUG [main] MergeSorter - [27, 33]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [56, 76]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [18, 56, 76]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [18, 27, 33, 56, 76]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [18, 24, 27, 33, 56, 68, 73, 76, 98, 99]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [-5, -1]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [3, 8]
+
+24-10-2018 16:56:32 DEBUG [main] MergeSorter - [-5, -1, 3, 8]
+
+24-10-2018 16:56:32 INFO [main] SortView - User has received output of - [24, 73, 68, 98, 99, 33, 27, 18, 76, 56]
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 12. This is the left child of 95
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 39. This is the right child of 12
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 98. This is the right child of 95
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 66. This is the right child of 39
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 44. This is the left child of 66
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 95. This is the left child of 98
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 80. This is the right child of 66
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 55. This is the right child of 44
+
+24-10-2018 16:59:13 INFO [main] BinaryTree - Node created with value - 73. This is the left child of 80
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 17. This is the left child of 72
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 54. This is the right child of 17
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 4. This is the left child of 17
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 34. This is the left child of 54
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 40. This is the right child of 34
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 70. This is the right child of 54
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 60. This is the left child of 70
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 15. This is the right child of 4
+
+24-10-2018 17:01:00 INFO [main] BinaryTree - Node created with value - 96. This is the right child of 72
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [66, 72]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [6, 47]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [6, 17, 47]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [6, 17, 47, 66, 72]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [14, 73]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [7, 74]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [7, 58, 74]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [7, 14, 58, 73, 74]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [6, 7, 14, 17, 47, 58, 66, 72, 73, 74]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [-5, -1]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [3, 8]
+
+24-10-2018 17:01:08 DEBUG [main] MergeSorter - [-5, -1, 3, 8]
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 66. This is the left child of 72
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 17. This is the left child of 66
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 6. This is the left child of 17
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 47. This is the right child of 17
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 73. This is the right child of 72
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 14. This is the right child of 6
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 58. This is the right child of 47
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 7. This is the left child of 14
+
+24-10-2018 17:01:08 INFO [main] BinaryTree - Node created with value - 74. This is the right child of 73
+
+24-10-2018 17:01:08 INFO [main] SortView - User has received output of - [72, 66, 17, 6, 47, 73, 14, 58, 7, 74]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [16, 26]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [59, 73]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [41, 59, 73]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [16, 26, 41, 59, 73]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [45, 100]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [78, 93]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [30, 78, 93]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [30, 45, 78, 93, 100]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [16, 26, 30, 41, 45, 59, 73, 78, 93, 100]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [-5, -1]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [3, 8]
+
+24-10-2018 17:01:26 DEBUG [main] MergeSorter - [-5, -1, 3, 8]
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 16. This is the left child of 26
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 41. This is the right child of 26
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 73. This is the right child of 41
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 59. This is the left child of 73
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 100. This is the right child of 73
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 45. This is the left child of 59
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 30. This is the left child of 41
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 93. This is the left child of 100
+
+24-10-2018 17:01:26 INFO [main] BinaryTree - Node created with value - 78. This is the left child of 93
+
+24-10-2018 17:01:26 INFO [main] SortView - User has received output of - [26, 16, 41, 73, 59, 100, 45, 30, 93, 78]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [59126, 80188]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [27464, 59126, 80188]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [18841, 68836]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [18841, 68836, 81933]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [18841, 27464, 59126, 68836, 80188, 81933]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [16634, 58194]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [16634, 58194, 73862]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [757, 92055]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [757, 24738, 92055]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [757, 16634, 24738, 58194, 73862, 92055]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [757, 16634, 18841, 24738, 27464, 58194, 59126, 68836, 73862, 80188, 81933, 92055]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [14637, 41278]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [9119, 14637, 41278]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [5113, 60018]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [5113, 60018, 83064]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [5113, 9119, 14637, 41278, 60018, 83064]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [16465, 25630]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [16465, 25630, 68965]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [54468, 90032]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [54468, 78411, 90032]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [16465, 25630, 54468, 68965, 78411, 90032]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [5113, 9119, 14637, 16465, 25630, 41278, 54468, 60018, 68965, 78411, 83064, 90032]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [757, 5113, 9119, 14637, 16465, 16634, 18841, 24738, 25630, 27464, 41278, 54468, 58194, 59126, 60018, 68836, 68965, 73862, 78411, 80188, 81933, 83064, 90032, 92055]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [35695, 97218]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [35695, 97218, 99427]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [921, 89135]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [921, 53004, 89135]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [921, 35695, 53004, 89135, 97218, 99427]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [3557, 24558]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [3557, 24558, 36873]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [29654, 64825]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [29654, 64825, 88408]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [3557, 24558, 29654, 36873, 64825, 88408]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [921, 3557, 24558, 29654, 35695, 36873, 53004, 64825, 88408, 89135, 97218, 99427]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [77335, 89933]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [39423, 77335, 89933]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [26897, 51344]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [26897, 28821, 51344]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [26897, 28821, 39423, 51344, 77335, 89933]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [28951, 82402]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [28951, 72205, 82402]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [87463, 87790]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [8800, 87463, 87790]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [8800, 28951, 72205, 82402, 87463, 87790]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [8800, 26897, 28821, 28951, 39423, 51344, 72205, 77335, 82402, 87463, 87790, 89933]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [921, 3557, 8800, 24558, 26897, 28821, 28951, 29654, 35695, 36873, 39423, 51344, 53004, 64825, 72205, 77335, 82402, 87463, 87790, 88408, 89135, 89933, 97218, 99427]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [757, 921, 3557, 5113, 8800, 9119, 14637, 16465, 16634, 18841, 24558, 24738, 25630, 26897, 27464, 28821, 28951, 29654, 35695, 36873, 39423, 41278, 51344, 53004, 54468, 58194, 59126, 60018, 64825, 68836, 68965, 72205, 73862, 77335, 78411, 80188, 81933, 82402, 83064, 87463, 87790, 88408, 89135, 89933, 90032, 92055, 97218, 99427]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [39099, 80089]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [39099, 80089, 86366]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [42569, 44267]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [34317, 42569, 44267]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [34317, 39099, 42569, 44267, 80089, 86366]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [30701, 70864]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [30701, 65434, 70864]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [73292, 81233]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [704, 73292, 81233]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [704, 30701, 65434, 70864, 73292, 81233]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [704, 30701, 34317, 39099, 42569, 44267, 65434, 70864, 73292, 80089, 81233, 86366]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [10879, 94240]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [10879, 60974, 94240]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [13508, 46331]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [8568, 13508, 46331]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [8568, 10879, 13508, 46331, 60974, 94240]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [30149, 46578]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [30149, 46578, 98462]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [83651, 98415]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [14731, 83651, 98415]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [14731, 30149, 46578, 83651, 98415, 98462]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [8568, 10879, 13508, 14731, 30149, 46331, 46578, 60974, 83651, 94240, 98415, 98462]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [704, 8568, 10879, 13508, 14731, 30149, 30701, 34317, 39099, 42569, 44267, 46331, 46578, 60974, 65434, 70864, 73292, 80089, 81233, 83651, 86366, 94240, 98415, 98462]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [15836, 55619]
+
+24-10-2018 17:40:35 DEBUG [main] MergeSorter - [15836, 55619, 78024]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9806, 90696]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9806, 76483, 90696]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9806, 15836, 55619, 76483, 78024, 90696]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23670, 72041]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23670, 72041, 85854]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [40240, 64023]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [40240, 64023, 69686]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23670, 40240, 64023, 69686, 72041, 85854]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9806, 15836, 23670, 40240, 55619, 64023, 69686, 72041, 76483, 78024, 85854, 90696]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [26528, 94311]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [26528, 47283, 94311]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23052, 92588]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23052, 48322, 92588]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23052, 26528, 47283, 48322, 92588, 94311]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [58705, 96675]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [58705, 82254, 96675]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4744, 61130]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [17888, 33294]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4744, 17888, 33294, 61130]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4744, 17888, 33294, 58705, 61130, 82254, 96675]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4744, 17888, 23052, 26528, 33294, 47283, 48322, 58705, 61130, 82254, 92588, 94311, 96675]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4744, 9806, 15836, 17888, 23052, 23670, 26528, 33294, 40240, 47283, 48322, 55619, 58705, 61130, 64023, 69686, 72041, 76483, 78024, 82254, 85854, 90696, 92588, 94311, 96675]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [704, 4744, 8568, 9806, 10879, 13508, 14731, 15836, 17888, 23052, 23670, 26528, 30149, 30701, 33294, 34317, 39099, 40240, 42569, 44267, 46331, 46578, 47283, 48322, 55619, 58705, 60974, 61130, 64023, 65434, 69686, 70864, 72041, 73292, 76483, 78024, 80089, 81233, 82254, 83651, 85854, 86366, 90696, 92588, 94240, 94311, 96675, 98415, 98462]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [704, 757, 921, 3557, 4744, 5113, 8568, 8800, 9119, 9806, 10879, 13508, 14637, 14731, 15836, 16465, 16634, 17888, 18841, 23052, 23670, 24558, 24738, 25630, 26528, 26897, 27464, 28821, 28951, 29654, 30149, 30701, 33294, 34317, 35695, 36873, 39099, 39423, 40240, 41278, 42569, 44267, 46331, 46578, 47283, 48322, 51344, 53004, 54468, 55619, 58194, 58705, 59126, 60018, 60974, 61130, 64023, 64825, 65434, 68836, 68965, 69686, 70864, 72041, 72205, 73292, 73862, 76483, 77335, 78024, 78411, 80089, 80188, 81233, 81933, 82254, 82402, 83064, 83651, 85854, 86366, 87463, 87790, 88408, 89135, 89933, 90032, 90696, 92055, 92588, 94240, 94311, 96675, 97218, 98415, 98462, 99427]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6643, 33612]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6643, 8179, 33612]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [37448, 88585]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [37448, 73401, 88585]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6643, 8179, 33612, 37448, 73401, 88585]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [57870, 65702]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [57870, 65702, 73398]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [36629, 42318]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [36629, 37673, 42318]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [36629, 37673, 42318, 57870, 65702, 73398]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6643, 8179, 33612, 36629, 37448, 37673, 42318, 57870, 65702, 73398, 73401, 88585]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [47324, 49351]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [31499, 47324, 49351]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [1213, 65348]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [1213, 65348, 93598]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [1213, 31499, 47324, 49351, 65348, 93598]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [73531, 91992]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [73531, 91992, 98606]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [7129, 35715]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4312, 7129, 35715]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [4312, 7129, 35715, 73531, 91992, 98606]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [1213, 4312, 7129, 31499, 35715, 47324, 49351, 65348, 73531, 91992, 93598, 98606]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [1213, 4312, 6643, 7129, 8179, 31499, 33612, 35715, 36629, 37448, 37673, 42318, 47324, 49351, 57870, 65348, 65702, 73398, 73401, 73531, 88585, 91992, 93598, 98606]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [40556, 55726]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [40556, 49786, 55726]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [50797, 64772]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [28785, 50797, 64772]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [28785, 40556, 49786, 50797, 55726, 64772]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [36195, 74488]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [36195, 56284, 74488]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23070, 69243]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23070, 69243, 95673]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23070, 36195, 56284, 69243, 74488, 95673]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [23070, 28785, 36195, 40556, 49786, 50797, 55726, 56284, 64772, 69243, 74488, 95673]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [56165, 74844]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6562, 56165, 74844]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [25111, 77252]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [25111, 77252, 80239]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6562, 25111, 56165, 74844, 77252, 80239]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [8426, 28044]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [8426, 28044, 89450]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [29660, 98183]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [31577, 92390]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [29660, 31577, 92390, 98183]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [8426, 28044, 29660, 31577, 89450, 92390, 98183]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6562, 8426, 25111, 28044, 29660, 31577, 56165, 74844, 77252, 80239, 89450, 92390, 98183]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [6562, 8426, 23070, 25111, 28044, 28785, 29660, 31577, 36195, 40556, 49786, 50797, 55726, 56165, 56284, 64772, 69243, 74488, 74844, 77252, 80239, 89450, 92390, 95673, 98183]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [1213, 4312, 6562, 6643, 7129, 8179, 8426, 23070, 25111, 28044, 28785, 29660, 31499, 31577, 33612, 35715, 36195, 36629, 37448, 37673, 40556, 42318, 47324, 49351, 49786, 50797, 55726, 56165, 56284, 57870, 64772, 65348, 65702, 69243, 73398, 73401, 73531, 74488, 74844, 77252, 80239, 88585, 89450, 91992, 92390, 93598, 95673, 98183, 98606]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [65211, 83687]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [50468, 65211, 83687]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9288, 60363]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9288, 60363, 74064]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9288, 50468, 60363, 65211, 74064, 83687]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [69389, 98814]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [46039, 69389, 98814]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [28732, 87964]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [28732, 60215, 87964]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [28732, 46039, 60215, 69389, 87964, 98814]
+
+24-10-2018 17:40:36 DEBUG [main] MergeSorter - [9288, 28732, 46039, 50468, 60215, 60363, 65211, 69389, 74064, 83687, 87964, 98814]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [46429, 80670]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [42745, 46429, 80670]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [64819, 79348]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [25609, 64819, 79348]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [25609, 42745, 46429, 64819, 79348, 80670]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [50362, 71629]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [48474, 50362, 71629]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [14170, 59975]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [14170, 56501, 59975]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [14170, 48474, 50362, 56501, 59975, 71629]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [14170, 25609, 42745, 46429, 48474, 50362, 56501, 59975, 64819, 71629, 79348, 80670]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [9288, 14170, 25609, 28732, 42745, 46039, 46429, 48474, 50362, 50468, 56501, 59975, 60215, 60363, 64819, 65211, 69389, 71629, 74064, 79348, 80670, 83687, 87964, 98814]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [62323, 94733]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [62323, 77292, 94733]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6941, 40705]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6941, 40705, 81151]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6941, 40705, 62323, 77292, 81151, 94733]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [26499, 88090]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [26499, 49100, 88090]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [65691, 98372]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [65691, 76683, 98372]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [26499, 49100, 65691, 76683, 88090, 98372]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6941, 26499, 40705, 49100, 62323, 65691, 76683, 77292, 81151, 88090, 94733, 98372]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [66602, 87339]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [58771, 66602, 87339]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [7862, 92449]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [7862, 40364, 92449]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [7862, 40364, 58771, 66602, 87339, 92449]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [13129, 40236]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [13129, 40236, 58376]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [4858, 66786]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [25432, 68263]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [4858, 25432, 66786, 68263]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [4858, 13129, 25432, 40236, 58376, 66786, 68263]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [4858, 7862, 13129, 25432, 40236, 40364, 58376, 58771, 66602, 66786, 68263, 87339, 92449]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [4858, 6941, 7862, 13129, 25432, 26499, 40236, 40364, 40705, 49100, 58376, 58771, 62323, 65691, 66602, 66786, 68263, 76683, 77292, 81151, 87339, 88090, 92449, 94733, 98372]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [4858, 6941, 7862, 9288, 13129, 14170, 25432, 25609, 26499, 28732, 40236, 40364, 40705, 42745, 46039, 46429, 48474, 49100, 50362, 50468, 56501, 58376, 58771, 59975, 60215, 60363, 62323, 64819, 65211, 65691, 66602, 66786, 68263, 69389, 71629, 74064, 76683, 77292, 79348, 80670, 81151, 83687, 87339, 87964, 88090, 92449, 94733, 98372, 98814]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1213, 4312, 4858, 6562, 6643, 6941, 7129, 7862, 8179, 8426, 9288, 13129, 14170, 23070, 25111, 25432, 25609, 26499, 28044, 28732, 28785, 29660, 31499, 31577, 33612, 35715, 36195, 36629, 37448, 37673, 40236, 40364, 40556, 40705, 42318, 42745, 46039, 46429, 47324, 48474, 49100, 49351, 49786, 50362, 50468, 50797, 55726, 56165, 56284, 56501, 57870, 58376, 58771, 59975, 60215, 60363, 62323, 64772, 64819, 65211, 65348, 65691, 65702, 66602, 66786, 68263, 69243, 69389, 71629, 73398, 73401, 73531, 74064, 74488, 74844, 76683, 77252, 77292, 79348, 80239, 80670, 81151, 83687, 87339, 87964, 88090, 88585, 89450, 91992, 92390, 92449, 93598, 94733, 95673, 98183, 98372, 98606, 98814]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [704, 757, 921, 1213, 3557, 4312, 4744, 4858, 5113, 6562, 6643, 6941, 7129, 7862, 8179, 8426, 8568, 8800, 9119, 9288, 9806, 10879, 13129, 13508, 14170, 14637, 14731, 15836, 16465, 16634, 17888, 18841, 23052, 23070, 23670, 24558, 24738, 25111, 25432, 25609, 25630, 26499, 26528, 26897, 27464, 28044, 28732, 28785, 28821, 28951, 29654, 29660, 30149, 30701, 31499, 31577, 33294, 33612, 34317, 35695, 35715, 36195, 36629, 36873, 37448, 37673, 39099, 39423, 40236, 40240, 40364, 40556, 40705, 41278, 42318, 42569, 42745, 44267, 46039, 46331, 46429, 46578, 47283, 47324, 48322, 48474, 49100, 49351, 49786, 50362, 50468, 50797, 51344, 53004, 54468, 55619, 55726, 56165, 56284, 56501, 57870, 58194, 58376, 58705, 58771, 59126, 59975, 60018, 60215, 60363, 60974, 61130, 62323, 64023, 64772, 64819, 64825, 65211, 65348, 65434, 65691, 65702, 66602, 66786, 68263, 68836, 68965, 69243, 69389, 69686, 70864, 71629, 72041, 72205, 73292, 73398, 73401, 73531, 73862, 74064, 74488, 74844, 76483, 76683, 77252, 77292, 77335, 78024, 78411, 79348, 80089, 80188, 80239, 80670, 81151, 81233, 81933, 82254, 82402, 83064, 83651, 83687, 85854, 86366, 87339, 87463, 87790, 87964, 88090, 88408, 88585, 89135, 89450, 89933, 90032, 90696, 91992, 92055, 92390, 92449, 92588, 93598, 94240, 94311, 94733, 95673, 96675, 97218, 98183, 98372, 98415, 98462, 98606, 98814, 99427]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [3120, 10975]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [3120, 10975, 59273]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [31063, 38673]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [31063, 38673, 67053]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [3120, 10975, 31063, 38673, 59273, 67053]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [62986, 77354]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [57509, 62986, 77354]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [12441, 50846]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [12441, 50846, 88301]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [12441, 50846, 57509, 62986, 77354, 88301]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [3120, 10975, 12441, 31063, 38673, 50846, 57509, 59273, 62986, 67053, 77354, 88301]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [12169, 64314]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [12169, 64314, 66034]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [24755, 53244]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [24755, 53244, 69516]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [12169, 24755, 53244, 64314, 66034, 69516]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [73726, 85994]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [42471, 73726, 85994]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [74122, 96183]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6852, 74122, 96183]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6852, 42471, 73726, 74122, 85994, 96183]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6852, 12169, 24755, 42471, 53244, 64314, 66034, 69516, 73726, 74122, 85994, 96183]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [3120, 6852, 10975, 12169, 12441, 24755, 31063, 38673, 42471, 50846, 53244, 57509, 59273, 62986, 64314, 66034, 67053, 69516, 73726, 74122, 77354, 85994, 88301, 96183]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1720, 13968]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1720, 13968, 85246]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [16741, 25011]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [16741, 21498, 25011]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1720, 13968, 16741, 21498, 25011, 85246]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [84888, 85392]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [84888, 85392, 93178]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [52969, 89056]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [13923, 52969, 89056]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [13923, 52969, 84888, 85392, 89056, 93178]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1720, 13923, 13968, 16741, 21498, 25011, 52969, 84888, 85246, 85392, 89056, 93178]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [74935, 88401]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [2483, 74935, 88401]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [72949, 93278]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [57366, 72949, 93278]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [2483, 57366, 72949, 74935, 88401, 93278]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [27120, 88148]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [27120, 37436, 88148]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [21933, 88540]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [18824, 21933, 88540]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [18824, 21933, 27120, 37436, 88148, 88540]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [2483, 18824, 21933, 27120, 37436, 57366, 72949, 74935, 88148, 88401, 88540, 93278]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1720, 2483, 13923, 13968, 16741, 18824, 21498, 21933, 25011, 27120, 37436, 52969, 57366, 72949, 74935, 84888, 85246, 85392, 88148, 88401, 88540, 89056, 93178, 93278]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [1720, 2483, 3120, 6852, 10975, 12169, 12441, 13923, 13968, 16741, 18824, 21498, 21933, 24755, 25011, 27120, 31063, 37436, 38673, 42471, 50846, 52969, 53244, 57366, 57509, 59273, 62986, 64314, 66034, 67053, 69516, 72949, 73726, 74122, 74935, 77354, 84888, 85246, 85392, 85994, 88148, 88301, 88401, 88540, 89056, 93178, 93278, 96183]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [8686, 55788]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [8686, 55788, 89926]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [14533, 37185]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [14533, 37185, 62060]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [8686, 14533, 37185, 55788, 62060, 89926]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6884, 86575]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6884, 21973, 86575]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [56029, 77167]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [56029, 77167, 89842]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6884, 21973, 56029, 77167, 86575, 89842]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [6884, 8686, 14533, 21973, 37185, 55788, 56029, 62060, 77167, 86575, 89842, 89926]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [18595, 49430]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [18595, 37875, 49430]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [80859, 83641]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [63881, 80859, 83641]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [18595, 37875, 49430, 63881, 80859, 83641]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [21024, 85977]
+
+24-10-2018 17:40:37 DEBUG [main] MergeSorter - [20129, 21024, 85977]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13940, 25669]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13940, 25669, 58764]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13940, 20129, 21024, 25669, 58764, 85977]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13940, 18595, 20129, 21024, 25669, 37875, 49430, 58764, 63881, 80859, 83641, 85977]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6884, 8686, 13940, 14533, 18595, 20129, 21024, 21973, 25669, 37185, 37875, 49430, 55788, 56029, 58764, 62060, 63881, 77167, 80859, 83641, 85977, 86575, 89842, 89926]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [18570, 92557]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [18570, 84482, 92557]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [88715, 95482]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [37653, 88715, 95482]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [18570, 37653, 84482, 88715, 92557, 95482]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [27287, 79407]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [27287, 77697, 79407]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 66689]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 66689, 99664]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 27287, 66689, 77697, 79407, 99664]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 18570, 27287, 37653, 66689, 77697, 79407, 84482, 88715, 92557, 95482, 99664]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13587, 95416]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13587, 23968, 95416]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [22329, 31686]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [7527, 22329, 31686]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [7527, 13587, 22329, 23968, 31686, 95416]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [12855, 58637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4358, 12855, 58637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29575, 82735]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [44895, 75200]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29575, 44895, 75200, 82735]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4358, 12855, 29575, 44895, 58637, 75200, 82735]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4358, 7527, 12855, 13587, 22329, 23968, 29575, 31686, 44895, 58637, 75200, 82735, 95416]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 4358, 7527, 12855, 13587, 18570, 22329, 23968, 27287, 29575, 31686, 37653, 44895, 58637, 66689, 75200, 77697, 79407, 82735, 84482, 88715, 92557, 95416, 95482, 99664]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 4358, 6884, 7527, 8686, 12855, 13587, 13940, 14533, 18570, 18595, 20129, 21024, 21973, 22329, 23968, 25669, 27287, 29575, 31686, 37185, 37653, 37875, 44895, 49430, 55788, 56029, 58637, 58764, 62060, 63881, 66689, 75200, 77167, 77697, 79407, 80859, 82735, 83641, 84482, 85977, 86575, 88715, 89842, 89926, 92557, 95416, 95482, 99664]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [876, 1720, 2483, 3120, 4358, 6852, 6884, 7527, 8686, 10975, 12169, 12441, 12855, 13587, 13923, 13940, 13968, 14533, 16741, 18570, 18595, 18824, 20129, 21024, 21498, 21933, 21973, 22329, 23968, 24755, 25011, 25669, 27120, 27287, 29575, 31063, 31686, 37185, 37436, 37653, 37875, 38673, 42471, 44895, 49430, 50846, 52969, 53244, 55788, 56029, 57366, 57509, 58637, 58764, 59273, 62060, 62986, 63881, 64314, 66034, 66689, 67053, 69516, 72949, 73726, 74122, 74935, 75200, 77167, 77354, 77697, 79407, 80859, 82735, 83641, 84482, 84888, 85246, 85392, 85977, 85994, 86575, 88148, 88301, 88401, 88540, 88715, 89056, 89842, 89926, 92557, 93178, 93278, 95416, 95482, 96183, 99664]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [45947, 56090]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [45947, 56090, 77269]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19718, 82819]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19718, 62576, 82819]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19718, 45947, 56090, 62576, 77269, 82819]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [12725, 96997]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [12725, 31720, 96997]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [45334, 52832]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [45334, 52832, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [12725, 31720, 45334, 52832, 96997, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [12725, 19718, 31720, 45334, 45947, 52832, 56090, 62576, 77269, 82819, 96997, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [32617, 41306]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [24274, 32617, 41306]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [7830, 64396]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [7830, 28092, 64396]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [7830, 24274, 28092, 32617, 41306, 64396]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13758, 58321]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13758, 36545, 58321]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29048, 32855]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1046, 29048, 32855]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1046, 13758, 29048, 32855, 36545, 58321]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1046, 7830, 13758, 24274, 28092, 29048, 32617, 32855, 36545, 41306, 58321, 64396]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1046, 7830, 12725, 13758, 19718, 24274, 28092, 29048, 31720, 32617, 32855, 36545, 41306, 45334, 45947, 52832, 56090, 58321, 62576, 64396, 77269, 82819, 96997, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [72063, 81207]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [52689, 72063, 81207]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [62113, 99290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16678, 62113, 99290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16678, 52689, 62113, 72063, 81207, 99290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [21490, 38011]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [21490, 38011, 81437]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [12472, 54059]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4329, 12472, 54059]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4329, 12472, 21490, 38011, 54059, 81437]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4329, 12472, 16678, 21490, 38011, 52689, 54059, 62113, 72063, 81207, 81437, 99290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6613, 58052]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6613, 35330, 58052]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 11029]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 1843, 11029]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 1843, 6613, 11029, 35330, 58052]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1783, 50438]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1783, 3898, 50438]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [17419, 66893]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [30149, 66185]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [17419, 30149, 66185, 66893]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [1783, 3898, 17419, 30149, 50438, 66185, 66893]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 1783, 1843, 3898, 6613, 11029, 17419, 30149, 35330, 50438, 58052, 66185, 66893]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 1783, 1843, 3898, 4329, 6613, 11029, 12472, 16678, 17419, 21490, 30149, 35330, 38011, 50438, 52689, 54059, 58052, 62113, 66185, 66893, 72063, 81207, 81437, 99290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 1046, 1783, 1843, 3898, 4329, 6613, 7830, 11029, 12472, 12725, 13758, 16678, 17419, 19718, 21490, 24274, 28092, 29048, 30149, 31720, 32617, 32855, 35330, 36545, 38011, 41306, 45334, 45947, 50438, 52689, 52832, 54059, 56090, 58052, 58321, 62113, 62576, 64396, 66185, 66893, 72063, 77269, 81207, 81437, 82819, 96997, 99290, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [11409, 53069]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [11409, 43903, 53069]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [9763, 22945]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [9763, 22945, 61028]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [9763, 11409, 22945, 43903, 53069, 61028]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [50462, 51069]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [47310, 50462, 51069]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16913, 83604]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16913, 42801, 83604]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16913, 42801, 47310, 50462, 51069, 83604]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [9763, 11409, 16913, 22945, 42801, 43903, 47310, 50462, 51069, 53069, 61028, 83604]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [42217, 49254]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [38448, 42217, 49254]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [22593, 35404]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [22593, 35404, 90991]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [22593, 35404, 38448, 42217, 49254, 90991]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6533, 90558]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6533, 90558, 93708]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19359, 39800]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19359, 39800, 96289]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6533, 19359, 39800, 90558, 93708, 96289]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6533, 19359, 22593, 35404, 38448, 39800, 42217, 49254, 90558, 90991, 93708, 96289]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6533, 9763, 11409, 16913, 19359, 22593, 22945, 35404, 38448, 39800, 42217, 42801, 43903, 47310, 49254, 50462, 51069, 53069, 61028, 83604, 90558, 90991, 93708, 96289]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [17423, 97637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [17423, 89396, 97637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [79722, 95360]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [37099, 79722, 95360]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [17423, 37099, 79722, 89396, 95360, 97637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [36669, 92507]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [3824, 36669, 92507]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16578, 73360]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16578, 73360, 78740]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [3824, 16578, 36669, 73360, 78740, 92507]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [3824, 16578, 17423, 36669, 37099, 73360, 78740, 79722, 89396, 92507, 95360, 97637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19836, 65967]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19822, 19836, 65967]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [73876, 97375]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [37316, 73876, 97375]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [19822, 19836, 37316, 65967, 73876, 97375]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [27202, 65437]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [24853, 27202, 65437]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14085, 51438]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16375, 21813]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14085, 16375, 21813, 51438]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14085, 16375, 21813, 24853, 27202, 51438, 65437]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14085, 16375, 19822, 19836, 21813, 24853, 27202, 37316, 51438, 65437, 65967, 73876, 97375]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [3824, 14085, 16375, 16578, 17423, 19822, 19836, 21813, 24853, 27202, 36669, 37099, 37316, 51438, 65437, 65967, 73360, 73876, 78740, 79722, 89396, 92507, 95360, 97375, 97637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [3824, 6533, 9763, 11409, 14085, 16375, 16578, 16913, 17423, 19359, 19822, 19836, 21813, 22593, 22945, 24853, 27202, 35404, 36669, 37099, 37316, 38448, 39800, 42217, 42801, 43903, 47310, 49254, 50462, 51069, 51438, 53069, 61028, 65437, 65967, 73360, 73876, 78740, 79722, 83604, 89396, 90558, 90991, 92507, 93708, 95360, 96289, 97375, 97637]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 1046, 1783, 1843, 3824, 3898, 4329, 6533, 6613, 7830, 9763, 11029, 11409, 12472, 12725, 13758, 14085, 16375, 16578, 16678, 16913, 17419, 17423, 19359, 19718, 19822, 19836, 21490, 21813, 22593, 22945, 24274, 24853, 27202, 28092, 29048, 30149, 31720, 32617, 32855, 35330, 35404, 36545, 36669, 37099, 37316, 38011, 38448, 39800, 41306, 42217, 42801, 43903, 45334, 45947, 47310, 49254, 50438, 50462, 51069, 51438, 52689, 52832, 53069, 54059, 56090, 58052, 58321, 61028, 62113, 62576, 64396, 65437, 65967, 66185, 66893, 72063, 73360, 73876, 77269, 78740, 79722, 81207, 81437, 82819, 83604, 89396, 90558, 90991, 92507, 93708, 95360, 96289, 96997, 97375, 97637, 99290, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [707, 876, 1046, 1720, 1783, 1843, 2483, 3120, 3824, 3898, 4329, 4358, 6533, 6613, 6852, 6884, 7527, 7830, 8686, 9763, 10975, 11029, 11409, 12169, 12441, 12472, 12725, 12855, 13587, 13758, 13923, 13940, 13968, 14085, 14533, 16375, 16578, 16678, 16741, 16913, 17419, 17423, 18570, 18595, 18824, 19359, 19718, 19822, 19836, 20129, 21024, 21490, 21498, 21813, 21933, 21973, 22329, 22593, 22945, 23968, 24274, 24755, 24853, 25011, 25669, 27120, 27202, 27287, 28092, 29048, 29575, 30149, 31063, 31686, 31720, 32617, 32855, 35330, 35404, 36545, 36669, 37099, 37185, 37316, 37436, 37653, 37875, 38011, 38448, 38673, 39800, 41306, 42217, 42471, 42801, 43903, 44895, 45334, 45947, 47310, 49254, 49430, 50438, 50462, 50846, 51069, 51438, 52689, 52832, 52969, 53069, 53244, 54059, 55788, 56029, 56090, 57366, 57509, 58052, 58321, 58637, 58764, 59273, 61028, 62060, 62113, 62576, 62986, 63881, 64314, 64396, 65437, 65967, 66034, 66185, 66689, 66893, 67053, 69516, 72063, 72949, 73360, 73726, 73876, 74122, 74935, 75200, 77167, 77269, 77354, 77697, 78740, 79407, 79722, 80859, 81207, 81437, 82735, 82819, 83604, 83641, 84482, 84888, 85246, 85392, 85977, 85994, 86575, 88148, 88301, 88401, 88540, 88715, 89056, 89396, 89842, 89926, 90558, 90991, 92507, 92557, 93178, 93278, 93708, 95360, 95416, 95482, 96183, 96289, 96997, 97375, 97637, 99290, 99664, 99715]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [704, 707, 757, 876, 921, 1046, 1213, 1720, 1783, 1843, 2483, 3120, 3557, 3824, 3898, 4312, 4329, 4358, 4744, 4858, 5113, 6533, 6562, 6613, 6643, 6852, 6884, 6941, 7129, 7527, 7830, 7862, 8179, 8426, 8568, 8686, 8800, 9119, 9288, 9763, 9806, 10879, 10975, 11029, 11409, 12169, 12441, 12472, 12725, 12855, 13129, 13508, 13587, 13758, 13923, 13940, 13968, 14085, 14170, 14533, 14637, 14731, 15836, 16375, 16465, 16578, 16634, 16678, 16741, 16913, 17419, 17423, 17888, 18570, 18595, 18824, 18841, 19359, 19718, 19822, 19836, 20129, 21024, 21490, 21498, 21813, 21933, 21973, 22329, 22593, 22945, 23052, 23070, 23670, 23968, 24274, 24558, 24738, 24755, 24853, 25011, 25111, 25432, 25609, 25630, 25669, 26499, 26528, 26897, 27120, 27202, 27287, 27464, 28044, 28092, 28732, 28785, 28821, 28951, 29048, 29575, 29654, 29660, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [42930, 44927]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [42930, 44927, 95746]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [34670, 78204]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [34564, 34670, 78204]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [34564, 34670, 42930, 44927, 78204, 95746]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15911, 52662]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15911, 52662, 73240]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [42154, 91186]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [16836, 42154, 91186]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15911, 16836, 42154, 52662, 73240, 91186]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15911, 16836, 34564, 34670, 42154, 42930, 44927, 52662, 73240, 78204, 91186, 95746]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [33318, 55290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [33318, 49766, 55290]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13518, 78737]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13518, 78737, 94271]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13518, 33318, 49766, 55290, 78737, 94271]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14142, 89681]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14142, 85912, 89681]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29974, 77319]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29462, 29974, 77319]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [14142, 29462, 29974, 77319, 85912, 89681]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13518, 14142, 29462, 29974, 33318, 49766, 55290, 77319, 78737, 85912, 89681, 94271]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [13518, 14142, 15911, 16836, 29462, 29974, 33318, 34564, 34670, 42154, 42930, 44927, 49766, 52662, 55290, 73240, 77319, 78204, 78737, 85912, 89681, 91186, 94271, 95746]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15324, 17753]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15324, 17753, 93958]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [57984, 62870]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [57984, 62870, 90516]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15324, 17753, 57984, 62870, 90516, 93958]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [57150, 59505]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [57150, 59505, 95697]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29385, 58318]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29385, 58318, 95654]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [29385, 57150, 58318, 59505, 95654, 95697]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [15324, 17753, 29385, 57150, 57984, 58318, 59505, 62870, 90516, 93958, 95654, 95697]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [72455, 96928]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [72455, 94496, 96928]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [23396, 62586]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6863, 23396, 62586]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [6863, 23396, 62586, 72455, 94496, 96928]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4415, 80675]
+
+24-10-2018 17:40:38 DEBUG [main] MergeSorter - [4415, 60945, 80675]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [34270, 52286]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [34270, 43456, 52286]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4415, 34270, 43456, 52286, 60945, 80675]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4415, 6863, 23396, 34270, 43456, 52286, 60945, 62586, 72455, 80675, 94496, 96928]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4415, 6863, 15324, 17753, 23396, 29385, 34270, 43456, 52286, 57150, 57984, 58318, 59505, 60945, 62586, 62870, 72455, 80675, 90516, 93958, 94496, 95654, 95697, 96928]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4415, 6863, 13518, 14142, 15324, 15911, 16836, 17753, 23396, 29385, 29462, 29974, 33318, 34270, 34564, 34670, 42154, 42930, 43456, 44927, 49766, 52286, 52662, 55290, 57150, 57984, 58318, 59505, 60945, 62586, 62870, 72455, 73240, 77319, 78204, 78737, 80675, 85912, 89681, 90516, 91186, 93958, 94271, 94496, 95654, 95697, 95746, 96928]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2304, 49773]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2304, 19011, 49773]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4277, 80689]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4277, 35102, 80689]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2304, 4277, 19011, 35102, 49773, 80689]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [46041, 55849]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [39308, 46041, 55849]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [29273, 79787]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [29273, 38333, 79787]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [29273, 38333, 39308, 46041, 55849, 79787]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2304, 4277, 19011, 29273, 35102, 38333, 39308, 46041, 49773, 55849, 79787, 80689]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [37806, 84167]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [37806, 44863, 84167]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [54430, 74932]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [52362, 54430, 74932]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [37806, 44863, 52362, 54430, 74932, 84167]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [739, 15869]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [739, 15869, 58780]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [26089, 65105]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2046, 26089, 65105]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [739, 2046, 15869, 26089, 58780, 65105]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [739, 2046, 15869, 26089, 37806, 44863, 52362, 54430, 58780, 65105, 74932, 84167]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [739, 2046, 2304, 4277, 15869, 19011, 26089, 29273, 35102, 37806, 38333, 39308, 44863, 46041, 49773, 52362, 54430, 55849, 58780, 65105, 74932, 79787, 80689, 84167]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22124, 74245]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22124, 55582, 74245]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [54449, 83003]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [54449, 56956, 83003]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22124, 54449, 55582, 56956, 74245, 83003]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5272, 59468]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5272, 34479, 59468]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [78637, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [17899, 78637, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5272, 17899, 34479, 59468, 78637, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5272, 17899, 22124, 34479, 54449, 55582, 56956, 59468, 74245, 78637, 83003, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [12000, 64373]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [12000, 33048, 64373]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [11950, 78284]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2545, 11950, 78284]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [2545, 11950, 12000, 33048, 64373, 78284]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [61734, 82260]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6823, 61734, 82260]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [48667, 62222]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 11820]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 11820, 48667, 62222]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 6823, 11820, 48667, 61734, 62222, 82260]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 2545, 6823, 11820, 11950, 12000, 33048, 48667, 61734, 62222, 64373, 78284, 82260]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 2545, 5272, 6823, 11820, 11950, 12000, 17899, 22124, 33048, 34479, 48667, 54449, 55582, 56956, 59468, 61734, 62222, 64373, 74245, 78284, 78637, 82260, 83003, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 739, 2046, 2304, 2545, 4277, 5272, 6823, 11820, 11950, 12000, 15869, 17899, 19011, 22124, 26089, 29273, 33048, 34479, 35102, 37806, 38333, 39308, 44863, 46041, 48667, 49773, 52362, 54430, 54449, 55582, 55849, 56956, 58780, 59468, 61734, 62222, 64373, 65105, 74245, 74932, 78284, 78637, 79787, 80689, 82260, 83003, 84167, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 739, 2046, 2304, 2545, 4277, 4415, 5272, 6823, 6863, 11820, 11950, 12000, 13518, 14142, 15324, 15869, 15911, 16836, 17753, 17899, 19011, 22124, 23396, 26089, 29273, 29385, 29462, 29974, 33048, 33318, 34270, 34479, 34564, 34670, 35102, 37806, 38333, 39308, 42154, 42930, 43456, 44863, 44927, 46041, 48667, 49766, 49773, 52286, 52362, 52662, 54430, 54449, 55290, 55582, 55849, 56956, 57150, 57984, 58318, 58780, 59468, 59505, 60945, 61734, 62222, 62586, 62870, 64373, 65105, 72455, 73240, 74245, 74932, 77319, 78204, 78284, 78637, 78737, 79787, 80675, 80689, 82260, 83003, 84167, 85912, 89681, 90516, 91186, 93958, 94271, 94496, 95654, 95697, 95746, 96928, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [19905, 79172]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [19905, 31679, 79172]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1282, 33899]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1282, 33899, 80967]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1282, 19905, 31679, 33899, 79172, 80967]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [48472, 92379]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6483, 48472, 92379]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [30225, 43895]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [30225, 43895, 67878]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6483, 30225, 43895, 48472, 67878, 92379]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1282, 6483, 19905, 30225, 31679, 33899, 43895, 48472, 67878, 79172, 80967, 92379]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [20783, 62526]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [14157, 20783, 62526]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22979, 43326]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22979, 43326, 99376]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [14157, 20783, 22979, 43326, 62526, 99376]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [66870, 84747]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [55334, 66870, 84747]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [12241, 80724]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [12241, 56391, 80724]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [12241, 55334, 56391, 66870, 80724, 84747]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [12241, 14157, 20783, 22979, 43326, 55334, 56391, 62526, 66870, 80724, 84747, 99376]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1282, 6483, 12241, 14157, 19905, 20783, 22979, 30225, 31679, 33899, 43326, 43895, 48472, 55334, 56391, 62526, 66870, 67878, 79172, 80724, 80967, 84747, 92379, 99376]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1958, 36709]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1958, 36709, 79009]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [9363, 15377]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [9363, 15377, 47853]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1958, 9363, 15377, 36709, 47853, 79009]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [24920, 62495]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [24920, 62495, 65155]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [23939, 98817]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [23939, 60352, 98817]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [23939, 24920, 60352, 62495, 65155, 98817]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [1958, 9363, 15377, 23939, 24920, 36709, 47853, 60352, 62495, 65155, 79009, 98817]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 35078]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 35078, 38073]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [24419, 55592]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [24419, 55592, 61022]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 24419, 35078, 38073, 55592, 61022]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [84875, 93640]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5538, 84875, 93640]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8580, 26632]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [9744, 69179]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8580, 9744, 26632, 69179]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5538, 8580, 9744, 26632, 69179, 84875, 93640]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 5538, 8580, 9744, 24419, 26632, 35078, 38073, 55592, 61022, 69179, 84875, 93640]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 1958, 5538, 8580, 9363, 9744, 15377, 23939, 24419, 24920, 26632, 35078, 36709, 38073, 47853, 55592, 60352, 61022, 62495, 65155, 69179, 79009, 84875, 93640, 98817]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 1282, 1958, 5538, 6483, 8580, 9363, 9744, 12241, 14157, 15377, 19905, 20783, 22979, 23939, 24419, 24920, 26632, 30225, 31679, 33899, 35078, 36709, 38073, 43326, 43895, 47853, 48472, 55334, 55592, 56391, 60352, 61022, 62495, 62526, 65155, 66870, 67878, 69179, 79009, 79172, 80724, 80967, 84747, 84875, 92379, 93640, 98817, 99376]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [45384, 96529]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [45384, 94821, 96529]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [75782, 86029]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [55850, 75782, 86029]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [45384, 55850, 75782, 86029, 94821, 96529]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [73819, 74955]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [61251, 73819, 74955]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [66457, 77202]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [66457, 77202, 94448]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [61251, 66457, 73819, 74955, 77202, 94448]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [45384, 55850, 61251, 66457, 73819, 74955, 75782, 77202, 86029, 94448, 94821, 96529]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [66555, 67639]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6957, 66555, 67639]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [51710, 95022]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5622, 51710, 95022]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5622, 6957, 51710, 66555, 67639, 95022]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [44606, 59658]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [44606, 52373, 59658]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [27048, 91884]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [27048, 46304, 91884]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [27048, 44606, 46304, 52373, 59658, 91884]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5622, 6957, 27048, 44606, 46304, 51710, 52373, 59658, 66555, 67639, 91884, 95022]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [5622, 6957, 27048, 44606, 45384, 46304, 51710, 52373, 55850, 59658, 61251, 66457, 66555, 67639, 73819, 74955, 75782, 77202, 86029, 91884, 94448, 94821, 95022, 96529]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [26002, 34058]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [26002, 34058, 56649]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [51568, 87644]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [42102, 51568, 87644]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [26002, 34058, 42102, 51568, 56649, 87644]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [53398, 79032]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [24090, 53398, 79032]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4272, 57197]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4272, 57197, 77541]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4272, 24090, 53398, 57197, 77541, 79032]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4272, 24090, 26002, 34058, 42102, 51568, 53398, 56649, 57197, 77541, 79032, 87644]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [42079, 46234]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [23606, 42079, 46234]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [53001, 83530]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8415, 53001, 83530]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8415, 23606, 42079, 46234, 53001, 83530]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [32787, 61469]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [32787, 58350, 61469]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [18757, 65121]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [37579, 75646]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [18757, 37579, 65121, 75646]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [18757, 32787, 37579, 58350, 61469, 65121, 75646]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8415, 18757, 23606, 32787, 37579, 42079, 46234, 53001, 58350, 61469, 65121, 75646, 83530]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4272, 8415, 18757, 23606, 24090, 26002, 32787, 34058, 37579, 42079, 42102, 46234, 51568, 53001, 53398, 56649, 57197, 58350, 61469, 65121, 75646, 77541, 79032, 83530, 87644]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [4272, 5622, 6957, 8415, 18757, 23606, 24090, 26002, 27048, 32787, 34058, 37579, 42079, 42102, 44606, 45384, 46234, 46304, 51568, 51710, 52373, 53001, 53398, 55850, 56649, 57197, 58350, 59658, 61251, 61469, 65121, 66457, 66555, 67639, 73819, 74955, 75646, 75782, 77202, 77541, 79032, 83530, 86029, 87644, 91884, 94448, 94821, 95022, 96529]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [791, 1282, 1958, 4272, 5538, 5622, 6483, 6957, 8415, 8580, 9363, 9744, 12241, 14157, 15377, 18757, 19905, 20783, 22979, 23606, 23939, 24090, 24419, 24920, 26002, 26632, 27048, 30225, 31679, 32787, 33899, 34058, 35078, 36709, 37579, 38073, 42079, 42102, 43326, 43895, 44606, 45384, 46234, 46304, 47853, 48472, 51568, 51710, 52373, 53001, 53398, 55334, 55592, 55850, 56391, 56649, 57197, 58350, 59658, 60352, 61022, 61251, 61469, 62495, 62526, 65121, 65155, 66457, 66555, 66870, 67639, 67878, 69179, 73819, 74955, 75646, 75782, 77202, 77541, 79009, 79032, 79172, 80724, 80967, 83530, 84747, 84875, 86029, 87644, 91884, 92379, 93640, 94448, 94821, 95022, 96529, 98817, 99376]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [176, 739, 791, 1282, 1958, 2046, 2304, 2545, 4272, 4277, 4415, 5272, 5538, 5622, 6483, 6823, 6863, 6957, 8415, 8580, 9363, 9744, 11820, 11950, 12000, 12241, 13518, 14142, 14157, 15324, 15377, 15869, 15911, 16836, 17753, 17899, 18757, 19011, 19905, 20783, 22124, 22979, 23396, 23606, 23939, 24090, 24419, 24920, 26002, 26089, 26632, 27048, 29273, 29385, 29462, 29974, 30225, 31679, 32787, 33048, 33318, 33899, 34058, 34270, 34479, 34564, 34670, 35078, 35102, 36709, 37579, 37806, 38073, 38333, 39308, 42079, 42102, 42154, 42930, 43326, 43456, 43895, 44606, 44863, 44927, 45384, 46041, 46234, 46304, 47853, 48472, 48667, 49766, 49773, 51568, 51710, 52286, 52362, 52373, 52662, 53001, 53398, 54430, 54449, 55290, 55334, 55582, 55592, 55849, 55850, 56391, 56649, 56956, 57150, 57197, 57984, 58318, 58350, 58780, 59468, 59505, 59658, 60352, 60945, 61022, 61251, 61469, 61734, 62222, 62495, 62526, 62586, 62870, 64373, 65105, 65121, 65155, 66457, 66555, 66870, 67639, 67878, 69179, 72455, 73240, 73819, 74245, 74932, 74955, 75646, 75782, 77202, 77319, 77541, 78204, 78284, 78637, 78737, 79009, 79032, 79172, 79787, 80675, 80689, 80724, 80967, 82260, 83003, 83530, 84167, 84747, 84875, 85912, 86029, 87644, 89681, 90516, 91186, 91884, 92379, 93640, 93958, 94271, 94448, 94496, 94821, 95022, 95654, 95697, 95746, 96529, 96928, 98817, 99376, 99881]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [67341, 87585]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [37023, 67341, 87585]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [21831, 78869]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6912, 21831, 78869]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6912, 21831, 37023, 67341, 78869, 87585]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [42073, 91259]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [42073, 88141, 91259]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [63180, 85273]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [17621, 63180, 85273]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [17621, 42073, 63180, 85273, 88141, 91259]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6912, 17621, 21831, 37023, 42073, 63180, 67341, 78869, 85273, 87585, 88141, 91259]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [37667, 92276]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [26449, 37667, 92276]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [39952, 63690]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8831, 39952, 63690]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8831, 26449, 37667, 39952, 63690, 92276]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [14428, 23467]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [14428, 23467, 96020]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22613, 74322]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [22613, 29740, 74322]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [14428, 22613, 23467, 29740, 74322, 96020]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [8831, 14428, 22613, 23467, 26449, 29740, 37667, 39952, 63690, 74322, 92276, 96020]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [6912, 8831, 14428, 17621, 21831, 22613, 23467, 26449, 29740, 37023, 37667, 39952, 42073, 63180, 63690, 67341, 74322, 78869, 85273, 87585, 88141, 91259, 92276, 96020]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [48496, 85577]
+
+24-10-2018 17:40:39 DEBUG [main] MergeSorter - [25351, 48496, 85577]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [24160, 61781]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [24160, 61781, 83303]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [24160, 25351, 48496, 61781, 83303, 85577]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [33701, 86536]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [33701, 42604, 86536]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [28445, 54586]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [28445, 54586, 83787]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [28445, 33701, 42604, 54586, 83787, 86536]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [24160, 25351, 28445, 33701, 42604, 48496, 54586, 61781, 83303, 83787, 85577, 86536]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10571, 64949]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10571, 64949, 88536]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [57937, 81327]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [29049, 57937, 81327]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10571, 29049, 57937, 64949, 81327, 88536]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [58370, 91192]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [46844, 58370, 91192]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [64373, 79265]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [67038, 82588]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [64373, 67038, 79265, 82588]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [46844, 58370, 64373, 67038, 79265, 82588, 91192]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10571, 29049, 46844, 57937, 58370, 64373, 64949, 67038, 79265, 81327, 82588, 88536, 91192]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10571, 24160, 25351, 28445, 29049, 33701, 42604, 46844, 48496, 54586, 57937, 58370, 61781, 64373, 64949, 67038, 79265, 81327, 82588, 83303, 83787, 85577, 86536, 88536, 91192]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [6912, 8831, 10571, 14428, 17621, 21831, 22613, 23467, 24160, 25351, 26449, 28445, 29049, 29740, 33701, 37023, 37667, 39952, 42073, 42604, 46844, 48496, 54586, 57937, 58370, 61781, 63180, 63690, 64373, 64949, 67038, 67341, 74322, 78869, 79265, 81327, 82588, 83303, 83787, 85273, 85577, 86536, 87585, 88141, 88536, 91192, 91259, 92276, 96020]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [19386, 92788]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [19386, 50180, 92788]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 74104]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 53749, 74104]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 19386, 50180, 53749, 74104, 92788]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10907, 34082]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10907, 34082, 60227]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10021, 53901]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10021, 15563, 53901]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10021, 10907, 15563, 34082, 53901, 60227]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 10021, 10907, 15563, 19386, 34082, 50180, 53749, 53901, 60227, 74104, 92788]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4375, 66540]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4375, 16688, 66540]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [31001, 64182]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [13405, 31001, 64182]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4375, 13405, 16688, 31001, 64182, 66540]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [56573, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [31398, 56573, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [30605, 96072]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [30605, 46742, 96072]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [30605, 31398, 46742, 56573, 96072, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4375, 13405, 16688, 30605, 31001, 31398, 46742, 56573, 64182, 66540, 96072, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 4375, 10021, 10907, 13405, 15563, 16688, 19386, 30605, 31001, 31398, 34082, 46742, 50180, 53749, 53901, 56573, 60227, 64182, 66540, 74104, 92788, 96072, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [31790, 88060]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [31790, 39035, 88060]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [66502, 67073]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [2567, 66502, 67073]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [2567, 31790, 39035, 66502, 67073, 88060]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [38974, 86753]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [38974, 50811, 86753]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [48981, 59211]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [48981, 59211, 73983]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [38974, 48981, 50811, 59211, 73983, 86753]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [2567, 31790, 38974, 39035, 48981, 50811, 59211, 66502, 67073, 73983, 86753, 88060]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [33494, 55844]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [33494, 55844, 86949]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [19786, 25142]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [19786, 25142, 58394]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [19786, 25142, 33494, 55844, 58394, 86949]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [40168, 76890]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [40168, 52810, 76890]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3799, 73344]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [51634, 86887]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3799, 51634, 73344, 86887]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3799, 40168, 51634, 52810, 73344, 76890, 86887]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3799, 19786, 25142, 33494, 40168, 51634, 52810, 55844, 58394, 73344, 76890, 86887, 86949]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [2567, 3799, 19786, 25142, 31790, 33494, 38974, 39035, 40168, 48981, 50811, 51634, 52810, 55844, 58394, 59211, 66502, 67073, 73344, 73983, 76890, 86753, 86887, 86949, 88060]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 2567, 3799, 4375, 10021, 10907, 13405, 15563, 16688, 19386, 19786, 25142, 30605, 31001, 31398, 31790, 33494, 34082, 38974, 39035, 40168, 46742, 48981, 50180, 50811, 51634, 52810, 53749, 53901, 55844, 56573, 58394, 59211, 60227, 64182, 66502, 66540, 67073, 73344, 73983, 74104, 76890, 86753, 86887, 86949, 88060, 92788, 96072, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 2567, 3799, 4375, 6912, 8831, 10021, 10571, 10907, 13405, 14428, 15563, 16688, 17621, 19386, 19786, 21831, 22613, 23467, 24160, 25142, 25351, 26449, 28445, 29049, 29740, 30605, 31001, 31398, 31790, 33494, 33701, 34082, 37023, 37667, 38974, 39035, 39952, 40168, 42073, 42604, 46742, 46844, 48496, 48981, 50180, 50811, 51634, 52810, 53749, 53901, 54586, 55844, 56573, 57937, 58370, 58394, 59211, 60227, 61781, 63180, 63690, 64182, 64373, 64949, 66502, 66540, 67038, 67073, 67341, 73344, 73983, 74104, 74322, 76890, 78869, 79265, 81327, 82588, 83303, 83787, 85273, 85577, 86536, 86753, 86887, 86949, 87585, 88060, 88141, 88536, 91192, 91259, 92276, 92788, 96020, 96072, 98105]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [27965, 56472]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [27965, 37950, 56472]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16577, 39064]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16577, 39064, 64824]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16577, 27965, 37950, 39064, 56472, 64824]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [12734, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [8020, 12734, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [8933, 72625]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [8933, 34595, 72625]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [8020, 8933, 12734, 34595, 72625, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [8020, 8933, 12734, 16577, 27965, 34595, 37950, 39064, 56472, 64824, 72625, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [12759, 97578]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10874, 12759, 97578]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [75250, 86731]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [32455, 75250, 86731]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10874, 12759, 32455, 75250, 86731, 97578]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [26923, 85082]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [26923, 59873, 85082]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [48970, 50584]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3826, 48970, 50584]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3826, 26923, 48970, 50584, 59873, 85082]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3826, 10874, 12759, 26923, 32455, 48970, 50584, 59873, 75250, 85082, 86731, 97578]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3826, 8020, 8933, 10874, 12734, 12759, 16577, 26923, 27965, 32455, 34595, 37950, 39064, 48970, 50584, 56472, 59873, 64824, 72625, 75250, 85082, 86731, 97578, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14863, 89472]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14863, 47678, 89472]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [26409, 88924]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [26409, 80033, 88924]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14863, 26409, 47678, 80033, 88924, 89472]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14141, 80610]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10587, 14141, 80610]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [69823, 92117]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [69823, 82343, 92117]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10587, 14141, 69823, 80610, 82343, 92117]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10587, 14141, 14863, 26409, 47678, 69823, 80033, 80610, 82343, 88924, 89472, 92117]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23423, 25097]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23423, 25097, 25153]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [34788, 55833]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [34788, 55833, 75900]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23423, 25097, 25153, 34788, 55833, 75900]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [20789, 38564]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [19211, 20789, 38564]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18393, 46453]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [40971, 64280]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18393, 40971, 46453, 64280]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18393, 19211, 20789, 38564, 40971, 46453, 64280]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18393, 19211, 20789, 23423, 25097, 25153, 34788, 38564, 40971, 46453, 55833, 64280, 75900]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [10587, 14141, 14863, 18393, 19211, 20789, 23423, 25097, 25153, 26409, 34788, 38564, 40971, 46453, 47678, 55833, 64280, 69823, 75900, 80033, 80610, 82343, 88924, 89472, 92117]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3826, 8020, 8933, 10587, 10874, 12734, 12759, 14141, 14863, 16577, 18393, 19211, 20789, 23423, 25097, 25153, 26409, 26923, 27965, 32455, 34595, 34788, 37950, 38564, 39064, 40971, 46453, 47678, 48970, 50584, 55833, 56472, 59873, 64280, 64824, 69823, 72625, 75250, 75900, 80033, 80610, 82343, 85082, 86731, 88924, 89472, 92117, 97578, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16336, 54540]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16336, 54540, 57171]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18953, 67388]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18953, 35681, 67388]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16336, 18953, 35681, 54540, 57171, 67388]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [27319, 32436]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [27319, 32436, 96550]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [43401, 91284]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [15408, 43401, 91284]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [15408, 27319, 32436, 43401, 91284, 96550]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [15408, 16336, 18953, 27319, 32436, 35681, 43401, 54540, 57171, 67388, 91284, 96550]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4490, 81291]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4490, 81291, 87314]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [44099, 99113]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [27563, 44099, 99113]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4490, 27563, 44099, 81291, 87314, 99113]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [34729, 47526]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [34729, 47526, 78452]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [13081, 51390]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [13081, 25659, 51390]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [13081, 25659, 34729, 47526, 51390, 78452]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4490, 13081, 25659, 27563, 34729, 44099, 47526, 51390, 78452, 81291, 87314, 99113]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4490, 13081, 15408, 16336, 18953, 25659, 27319, 27563, 32436, 34729, 35681, 43401, 44099, 47526, 51390, 54540, 57171, 67388, 78452, 81291, 87314, 91284, 96550, 99113]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [83240, 92839]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [1493, 83240, 92839]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [49297, 79938]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [49297, 74470, 79938]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [1493, 49297, 74470, 79938, 83240, 92839]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23709, 39251]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [5113, 23709, 39251]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [42826, 60153]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [42826, 60153, 65471]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [5113, 23709, 39251, 42826, 60153, 65471]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [1493, 5113, 23709, 39251, 42826, 49297, 60153, 65471, 74470, 79938, 83240, 92839]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23937, 61572]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23937, 55096, 61572]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [30783, 76682]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [30783, 38805, 76682]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [23937, 30783, 38805, 55096, 61572, 76682]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3259, 81142]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3259, 81142, 83798]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [43192, 48773]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [13114, 87333]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [13114, 43192, 48773, 87333]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3259, 13114, 43192, 48773, 81142, 83798, 87333]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [3259, 13114, 23937, 30783, 38805, 43192, 48773, 55096, 61572, 76682, 81142, 83798, 87333]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [1493, 3259, 5113, 13114, 23709, 23937, 30783, 38805, 39251, 42826, 43192, 48773, 49297, 55096, 60153, 61572, 65471, 74470, 76682, 79938, 81142, 83240, 83798, 87333, 92839]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [1493, 3259, 4490, 5113, 13081, 13114, 15408, 16336, 18953, 23709, 23937, 25659, 27319, 27563, 30783, 32436, 34729, 35681, 38805, 39251, 42826, 43192, 43401, 44099, 47526, 48773, 49297, 51390, 54540, 55096, 57171, 60153, 61572, 65471, 67388, 74470, 76682, 78452, 79938, 81142, 81291, 83240, 83798, 87314, 87333, 91284, 92839, 96550, 99113]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [1493, 3259, 3826, 4490, 5113, 8020, 8933, 10587, 10874, 12734, 12759, 13081, 13114, 14141, 14863, 15408, 16336, 16577, 18393, 18953, 19211, 20789, 23423, 23709, 23937, 25097, 25153, 25659, 26409, 26923, 27319, 27563, 27965, 30783, 32436, 32455, 34595, 34729, 34788, 35681, 37950, 38564, 38805, 39064, 39251, 40971, 42826, 43192, 43401, 44099, 46453, 47526, 47678, 48773, 48970, 49297, 50584, 51390, 54540, 55096, 55833, 56472, 57171, 59873, 60153, 61572, 64280, 64824, 65471, 67388, 69823, 72625, 74470, 75250, 75900, 76682, 78452, 79938, 80033, 80610, 81142, 81291, 82343, 83240, 83798, 85082, 86731, 87314, 87333, 88924, 89472, 91284, 92117, 92839, 96550, 97578, 99113, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [972, 1493, 2567, 3259, 3799, 3826, 4375, 4490, 5113, 6912, 8020, 8831, 8933, 10021, 10571, 10587, 10874, 10907, 12734, 12759, 13081, 13114, 13405, 14141, 14428, 14863, 15408, 15563, 16336, 16577, 16688, 17621, 18393, 18953, 19211, 19386, 19786, 20789, 21831, 22613, 23423, 23467, 23709, 23937, 24160, 25097, 25142, 25153, 25351, 25659, 26409, 26449, 26923, 27319, 27563, 27965, 28445, 29049, 29740, 30605, 30783, 31001, 31398, 31790, 32436, 32455, 33494, 33701, 34082, 34595, 34729, 34788, 35681, 37023, 37667, 37950, 38564, 38805, 38974, 39035, 39064, 39251, 39952, 40168, 40971, 42073, 42604, 42826, 43192, 43401, 44099, 46453, 46742, 46844, 47526, 47678, 48496, 48773, 48970, 48981, 49297, 50180, 50584, 50811, 51390, 51634, 52810, 53749, 53901, 54540, 54586, 55096, 55833, 55844, 56472, 56573, 57171, 57937, 58370, 58394, 59211, 59873, 60153, 60227, 61572, 61781, 63180, 63690, 64182, 64280, 64373, 64824, 64949, 65471, 66502, 66540, 67038, 67073, 67341, 67388, 69823, 72625, 73344, 73983, 74104, 74322, 74470, 75250, 75900, 76682, 76890, 78452, 78869, 79265, 79938, 80033, 80610, 81142, 81291, 81327, 82343, 82588, 83240, 83303, 83787, 83798, 85082, 85273, 85577, 86536, 86731, 86753, 86887, 86949, 87314, 87333, 87585, 88060, 88141, 88536, 88924, 89472, 91192, 91259, 91284, 92117, 92276, 92788, 92839, 96020, 96072, 96550, 97578, 98105, 99113, 99423]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [176, 739, 791, 972, 1282, 1493, 1958, 2046, 2304, 2545, 2567, 3259, 3799, 3826, 4272, 4277, 4375, 4415, 4490, 5113, 5272, 5538, 5622, 6483, 6823, 6863, 6912, 6957, 8020, 8415, 8580, 8831, 8933, 9363, 9744, 10021, 10571, 10587, 10874, 10907, 11820, 11950, 12000, 12241, 12734, 12759, 13081, 13114, 13405, 13518, 14141, 14142, 14157, 14428, 14863, 15324, 15377, 15408, 15563, 15869, 15911, 16336, 16577, 16688, 16836, 17621, 17753, 17899, 18393, 18757, 18953, 19011, 19211, 19386, 19786, 19905, 20783, 20789, 21831, 22124, 22613, 22979, 23396, 23423, 23467, 23606, 23709, 23937, 23939, 24090, 24160, 24419, 24920, 25097, 25142, 25153, 25351, 25659, 26002, 26089, 26409, 26449, 26632, 26923, 27048, 27319, 27563, 27965, 28445, 29049, 29273, 29385, 29462, 29740, 29974, 30225, 30605, 30783, 31001, 31398, 31679, 31790, 32436, 32455, 32787, 33048, 33318, 33494, 33701, 33899, 34058, 34082, 34270, 34479, 34564, 34595, 34670, 34729, 34788, 35078, 35102, 35681, 36709, 37023, 37579, 37667, 37806, 37950, 38073, 38333, 38564, 38805, 38974, 39035, 39064, 39251, 39308, 39952, 40168, 40971, 42073, 42079, 42102, 42154, 42604, 42826, 42930, 43192, 43326, 43401, 43456, 43895, 44099, 44606, 44863, 44927, 45384, 46041, 46234, 46304, 46453, 46742, 46844, 47526, 47678, 47853, 48472, 48496, 48667, 48773, 48970, 48981, 49297, 49766, 49773, 50180, 50584, 50811, 51390, 51568, 51634, 51710, 52286, 52362, 52373, 52662, 52810, 53001, 53398, 53749, 53901, 54430, 54449, 54540, 54586, 55096, 55290, 55334, 55582, 55592, 55833, 55844, 55849, 55850, 56391, 56472, 56573, 56649, 56956, 57150, 57171, 57197, 57937, 57984, 58318, 58350, 58370, 58394, 58780, 59211, 59468, 59505, 59658, 59873, 60153, 60227, 60352, 60945, 61022, 61251, 61469, 61572, 61734, 61781, 62222, 62495, 62526, 62586, 62870, 63180, 63690, 64182, 64280, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [176, 704, 707, 739, 757, 791, 876, 921, 972, 1046, 1213, 1282, 1493, 1720, 1783, 1843, 1958, 2046, 2304, 2483, 2545, 2567, 3120, 3259, 3557, 3799, 3824, 3826, 3898, 4272, 4277, 4312, 4329, 4358, 4375, 4415, 4490, 4744, 4858, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14766, 58201]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14766, 58201, 66906]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [15512, 69277]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [15512, 21935, 69277]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [14766, 15512, 21935, 58201, 66906, 69277]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [16665, 86877]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [6563, 16665, 86877]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [21280, 55545]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4016, 21280, 55545]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4016, 6563, 16665, 21280, 55545, 86877]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4016, 6563, 14766, 15512, 16665, 21280, 21935, 55545, 58201, 66906, 69277, 86877]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [34071, 45166]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [34071, 45166, 45715]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18348, 19470]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18348, 19470, 76437]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18348, 19470, 34071, 45166, 45715, 76437]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [53577, 67475]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [53577, 67475, 82184]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [49639, 77517]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [49639, 68614, 77517]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [49639, 53577, 67475, 68614, 77517, 82184]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [18348, 19470, 34071, 45166, 45715, 49639, 53577, 67475, 68614, 76437, 77517, 82184]
+
+24-10-2018 17:40:40 DEBUG [main] MergeSorter - [4016, 6563, 14766, 15512, 16665, 18348, 19470, 21280, 21935, 34071, 45166, 45715, 49639, 53577, 55545, 58201, 66906, 67475, 68614, 69277, 76437, 77517, 82184, 86877]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [60485, 94381]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [60485, 82382, 94381]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [8693, 18836]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [8693, 18836, 26232]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [8693, 18836, 26232, 60485, 82382, 94381]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 31191]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 31191, 94240]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27553, 48228]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27553, 39113, 48228]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 27553, 31191, 39113, 48228, 94240]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 8693, 18836, 26232, 27553, 31191, 39113, 48228, 60485, 82382, 94240, 94381]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [67450, 89182]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [48581, 67450, 89182]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13381, 80093]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13381, 80093, 92630]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13381, 48581, 67450, 80093, 89182, 92630]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [22976, 84782]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [22976, 84782, 96568]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [66141, 89196]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7546, 66141, 89196]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7546, 22976, 66141, 84782, 89196, 96568]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7546, 13381, 22976, 48581, 66141, 67450, 80093, 84782, 89182, 89196, 92630, 96568]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 7546, 8693, 13381, 18836, 22976, 26232, 27553, 31191, 39113, 48228, 48581, 60485, 66141, 67450, 80093, 82382, 84782, 89182, 89196, 92630, 94240, 94381, 96568]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 4016, 6563, 7546, 8693, 13381, 14766, 15512, 16665, 18348, 18836, 19470, 21280, 21935, 22976, 26232, 27553, 31191, 34071, 39113, 45166, 45715, 48228, 48581, 49639, 53577, 55545, 58201, 60485, 66141, 66906, 67450, 67475, 68614, 69277, 76437, 77517, 80093, 82184, 82382, 84782, 86877, 89182, 89196, 92630, 94240, 94381, 96568]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [11770, 84961]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [11770, 74510, 84961]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3505, 14261]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3505, 14261, 83252]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3505, 11770, 14261, 74510, 83252, 84961]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [12173, 98612]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [12173, 96177, 98612]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [19645, 34792]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13457, 19645, 34792]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [12173, 13457, 19645, 34792, 96177, 98612]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3505, 11770, 12173, 13457, 14261, 19645, 34792, 74510, 83252, 84961, 96177, 98612]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [31903, 93904]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [31903, 61716, 93904]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [16263, 84207]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [16263, 46335, 84207]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [16263, 31903, 46335, 61716, 84207, 93904]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [20094, 40837]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [20094, 40837, 50463]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [6447, 75449]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [6447, 53647, 75449]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [6447, 20094, 40837, 50463, 53647, 75449]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [6447, 16263, 20094, 31903, 40837, 46335, 50463, 53647, 61716, 75449, 84207, 93904]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3505, 6447, 11770, 12173, 13457, 14261, 16263, 19645, 20094, 31903, 34792, 40837, 46335, 50463, 53647, 61716, 74510, 75449, 83252, 84207, 84961, 93904, 96177, 98612]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9442, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9442, 28124, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [74627, 97272]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [55163, 74627, 97272]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9442, 28124, 55163, 74627, 97272, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [23611, 51955]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3108, 23611, 51955]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [19578, 50204]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [19578, 32536, 50204]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3108, 19578, 23611, 32536, 50204, 51955]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3108, 9442, 19578, 23611, 28124, 32536, 50204, 51955, 55163, 74627, 97272, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [31927, 90569]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [31927, 65401, 90569]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [28966, 61666]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [28966, 61666, 94497]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [28966, 31927, 61666, 65401, 90569, 94497]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [50472, 90157]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [50472, 90157, 98230]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [39110, 64159]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [34741, 41701]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [34741, 39110, 41701, 64159]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [34741, 39110, 41701, 50472, 64159, 90157, 98230]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [28966, 31927, 34741, 39110, 41701, 50472, 61666, 64159, 65401, 90157, 90569, 94497, 98230]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3108, 9442, 19578, 23611, 28124, 28966, 31927, 32536, 34741, 39110, 41701, 50204, 50472, 51955, 55163, 61666, 64159, 65401, 74627, 90157, 90569, 94497, 97272, 98230, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3108, 3505, 6447, 9442, 11770, 12173, 13457, 14261, 16263, 19578, 19645, 20094, 23611, 28124, 28966, 31903, 31927, 32536, 34741, 34792, 39110, 40837, 41701, 46335, 50204, 50463, 50472, 51955, 53647, 55163, 61666, 61716, 64159, 65401, 74510, 74627, 75449, 83252, 84207, 84961, 90157, 90569, 93904, 94497, 96177, 97272, 98230, 98612, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2561, 3108, 3505, 4016, 6447, 6563, 7546, 8693, 9442, 11770, 12173, 13381, 13457, 14261, 14766, 15512, 16263, 16665, 18348, 18836, 19470, 19578, 19645, 20094, 21280, 21935, 22976, 23611, 26232, 27553, 28124, 28966, 31191, 31903, 31927, 32536, 34071, 34741, 34792, 39110, 39113, 40837, 41701, 45166, 45715, 46335, 48228, 48581, 49639, 50204, 50463, 50472, 51955, 53577, 53647, 55163, 55545, 58201, 60485, 61666, 61716, 64159, 65401, 66141, 66906, 67450, 67475, 68614, 69277, 74510, 74627, 75449, 76437, 77517, 80093, 82184, 82382, 83252, 84207, 84782, 84961, 86877, 89182, 89196, 90157, 90569, 92630, 93904, 94240, 94381, 94497, 96177, 96568, 97272, 98230, 98612, 99273]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7890, 59146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7890, 8087, 59146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [10771, 18703]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [10771, 13682, 18703]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7890, 8087, 10771, 13682, 18703, 59146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9825, 85423]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9825, 58344, 85423]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [53903, 66596]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [15058, 53903, 66596]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9825, 15058, 53903, 58344, 66596, 85423]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7890, 8087, 9825, 10771, 13682, 15058, 18703, 53903, 58344, 59146, 66596, 85423]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [46161, 85493]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [46161, 60427, 85493]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [11365, 78091]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [11365, 78091, 94192]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [11365, 46161, 60427, 78091, 85493, 94192]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [73492, 87826]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 73492, 87826]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [69582, 94344]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [61810, 69582, 94344]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 61810, 69582, 73492, 87826, 94344]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 11365, 46161, 60427, 61810, 69582, 73492, 78091, 85493, 87826, 94192, 94344]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 7890, 8087, 9825, 10771, 11365, 13682, 15058, 18703, 46161, 53903, 58344, 59146, 60427, 61810, 66596, 69582, 73492, 78091, 85423, 85493, 87826, 94192, 94344]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [42532, 89374]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [42532, 44113, 89374]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3167, 50960]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3167, 41777, 50960]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3167, 41777, 42532, 44113, 50960, 89374]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3486, 58557]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3486, 4565, 58557]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [50794, 94113]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [14801, 50794, 94113]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3486, 4565, 14801, 50794, 58557, 94113]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3167, 3486, 4565, 14801, 41777, 42532, 44113, 50794, 50960, 58557, 89374, 94113]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [22716, 28741]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [22716, 28741, 64386]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5691, 9519]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5691, 9519, 46986]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5691, 9519, 22716, 28741, 46986, 64386]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [90967, 93125]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [14336, 90967, 93125]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [28562, 71045]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [64345, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [28562, 64345, 71045, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [14336, 28562, 64345, 71045, 90967, 93125, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5691, 9519, 14336, 22716, 28562, 28741, 46986, 64345, 64386, 71045, 90967, 93125, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3167, 3486, 4565, 5691, 9519, 14336, 14801, 22716, 28562, 28741, 41777, 42532, 44113, 46986, 50794, 50960, 58557, 64345, 64386, 71045, 89374, 90967, 93125, 94113, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 3167, 3486, 4565, 5691, 7890, 8087, 9519, 9825, 10771, 11365, 13682, 14336, 14801, 15058, 18703, 22716, 28562, 28741, 41777, 42532, 44113, 46161, 46986, 50794, 50960, 53903, 58344, 58557, 59146, 60427, 61810, 64345, 64386, 66596, 69582, 71045, 73492, 78091, 85423, 85493, 87826, 89374, 90967, 93125, 94113, 94192, 94344, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [26645, 42810]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [26645, 35254, 42810]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [66870, 79236]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [66870, 79236, 91023]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [26645, 35254, 42810, 66870, 79236, 91023]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [41093, 74901]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [41093, 50348, 74901]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2933, 24607]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2933, 24607, 83586]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2933, 24607, 41093, 50348, 74901, 83586]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2933, 24607, 26645, 35254, 41093, 42810, 50348, 66870, 74901, 79236, 83586, 91023]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [20021, 31292]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [20021, 31292, 74469]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [12930, 95378]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [12930, 29118, 95378]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [12930, 20021, 29118, 31292, 74469, 95378]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [68392, 71787]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7972, 68392, 71787]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [66047, 85177]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [59338, 66047, 85177]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7972, 59338, 66047, 68392, 71787, 85177]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7972, 12930, 20021, 29118, 31292, 59338, 66047, 68392, 71787, 74469, 85177, 95378]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2933, 7972, 12930, 20021, 24607, 26645, 29118, 31292, 35254, 41093, 42810, 50348, 59338, 66047, 66870, 68392, 71787, 74469, 74901, 79236, 83586, 85177, 91023, 95378]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [18865, 85937]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [4561, 18865, 85937]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [65999, 92026]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [16170, 65999, 92026]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [4561, 16170, 18865, 65999, 85937, 92026]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [6942, 98210]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [6942, 36802, 98210]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [4678, 19967]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3533, 4678, 19967]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3533, 4678, 6942, 19967, 36802, 98210]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3533, 4561, 4678, 6942, 16170, 18865, 19967, 36802, 65999, 85937, 92026, 98210]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [15183, 65499]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [15183, 41015, 65499]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [46393, 80846]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [43414, 46393, 80846]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [15183, 41015, 43414, 46393, 65499, 80846]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9112, 99238]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9112, 78861, 99238]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [59558, 65447]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13310, 25703]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13310, 25703, 59558, 65447]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9112, 13310, 25703, 59558, 65447, 78861, 99238]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [9112, 13310, 15183, 25703, 41015, 43414, 46393, 59558, 65447, 65499, 78861, 80846, 99238]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3533, 4561, 4678, 6942, 9112, 13310, 15183, 16170, 18865, 19967, 25703, 36802, 41015, 43414, 46393, 59558, 65447, 65499, 65999, 78861, 80846, 85937, 92026, 98210, 99238]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2933, 3533, 4561, 4678, 6942, 7972, 9112, 12930, 13310, 15183, 16170, 18865, 19967, 20021, 24607, 25703, 26645, 29118, 31292, 35254, 36802, 41015, 41093, 42810, 43414, 46393, 50348, 59338, 59558, 65447, 65499, 65999, 66047, 66870, 68392, 71787, 74469, 74901, 78861, 79236, 80846, 83586, 85177, 85937, 91023, 92026, 95378, 98210, 99238]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 2933, 3167, 3486, 3533, 4561, 4565, 4678, 5691, 6942, 7890, 7972, 8087, 9112, 9519, 9825, 10771, 11365, 12930, 13310, 13682, 14336, 14801, 15058, 15183, 16170, 18703, 18865, 19967, 20021, 22716, 24607, 25703, 26645, 28562, 28741, 29118, 31292, 35254, 36802, 41015, 41093, 41777, 42532, 42810, 43414, 44113, 46161, 46393, 46986, 50348, 50794, 50960, 53903, 58344, 58557, 59146, 59338, 59558, 60427, 61810, 64345, 64386, 65447, 65499, 65999, 66047, 66596, 66870, 68392, 69582, 71045, 71787, 73492, 74469, 74901, 78091, 78861, 79236, 80846, 83586, 85177, 85423, 85493, 85937, 87826, 89374, 90967, 91023, 92026, 93125, 94113, 94192, 94344, 95378, 98210, 99238, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [2341, 2561, 2933, 3108, 3167, 3486, 3505, 3533, 4016, 4561, 4565, 4678, 5691, 6447, 6563, 6942, 7546, 7890, 7972, 8087, 8693, 9112, 9442, 9519, 9825, 10771, 11365, 11770, 12173, 12930, 13310, 13381, 13457, 13682, 14261, 14336, 14766, 14801, 15058, 15183, 15512, 16170, 16263, 16665, 18348, 18703, 18836, 18865, 19470, 19578, 19645, 19967, 20021, 20094, 21280, 21935, 22716, 22976, 23611, 24607, 25703, 26232, 26645, 27553, 28124, 28562, 28741, 28966, 29118, 31191, 31292, 31903, 31927, 32536, 34071, 34741, 34792, 35254, 36802, 39110, 39113, 40837, 41015, 41093, 41701, 41777, 42532, 42810, 43414, 44113, 45166, 45715, 46161, 46335, 46393, 46986, 48228, 48581, 49639, 50204, 50348, 50463, 50472, 50794, 50960, 51955, 53577, 53647, 53903, 55163, 55545, 58201, 58344, 58557, 59146, 59338, 59558, 60427, 60485, 61666, 61716, 61810, 64159, 64345, 64386, 65401, 65447, 65499, 65999, 66047, 66141, 66596, 66870, 66906, 67450, 67475, 68392, 68614, 69277, 69582, 71045, 71787, 73492, 74469, 74510, 74627, 74901, 75449, 76437, 77517, 78091, 78861, 79236, 80093, 80846, 82184, 82382, 83252, 83586, 84207, 84782, 84961, 85177, 85423, 85493, 85937, 86877, 87826, 89182, 89196, 89374, 90157, 90569, 90967, 91023, 92026, 92630, 93125, 93904, 94113, 94192, 94240, 94344, 94381, 94497, 95378, 96177, 96568, 97272, 98210, 98230, 98612, 99238, 99273, 99767]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [19184, 53423]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [19184, 53423, 88725]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [91, 34692]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [91, 34692, 69003]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [91, 19184, 34692, 53423, 69003, 88725]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27814, 45738]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27814, 45738, 60099]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [8512, 95146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [8512, 14682, 95146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [8512, 14682, 27814, 45738, 60099, 95146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [91, 8512, 14682, 19184, 27814, 34692, 45738, 53423, 60099, 69003, 88725, 95146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [78880, 91558]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [57171, 78880, 91558]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [31252, 38871]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7037, 31252, 38871]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7037, 31252, 38871, 57171, 78880, 91558]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [17711, 88362]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5593, 17711, 88362]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [39480, 53011]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [23627, 39480, 53011]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5593, 17711, 23627, 39480, 53011, 88362]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5593, 7037, 17711, 23627, 31252, 38871, 39480, 53011, 57171, 78880, 88362, 91558]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [91, 5593, 7037, 8512, 14682, 17711, 19184, 23627, 27814, 31252, 34692, 38871, 39480, 45738, 53011, 53423, 57171, 60099, 69003, 78880, 88362, 88725, 91558, 95146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [79711, 85964]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [79711, 85964, 86662]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5873, 52077]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5873, 14293, 52077]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5873, 14293, 52077, 79711, 85964, 86662]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [55461, 84679]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [55461, 68255, 84679]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [18066, 62010]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [18066, 62010, 70297]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [18066, 55461, 62010, 68255, 70297, 84679]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5873, 14293, 18066, 52077, 55461, 62010, 68255, 70297, 79711, 84679, 85964, 86662]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [49069, 53167]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [49069, 53167, 80252]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27812, 62485]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27812, 62485, 87608]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [27812, 49069, 53167, 62485, 80252, 87608]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [19834, 64534]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [13017, 19834, 64534]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7250, 92315]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7250, 43431, 92315]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7250, 13017, 19834, 43431, 64534, 92315]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [7250, 13017, 19834, 27812, 43431, 49069, 53167, 62485, 64534, 80252, 87608, 92315]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [5873, 7250, 13017, 14293, 18066, 19834, 27812, 43431, 49069, 52077, 53167, 55461, 62010, 62485, 64534, 68255, 70297, 79711, 80252, 84679, 85964, 86662, 87608, 92315]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [91, 5593, 5873, 7037, 7250, 8512, 13017, 14293, 14682, 17711, 18066, 19184, 19834, 23627, 27812, 27814, 31252, 34692, 38871, 39480, 43431, 45738, 49069, 52077, 53011, 53167, 53423, 55461, 57171, 60099, 62010, 62485, 64534, 68255, 69003, 70297, 78880, 79711, 80252, 84679, 85964, 86662, 87608, 88362, 88725, 91558, 92315, 95146]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [70614, 89740]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [70614, 76556, 89740]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [26790, 75220]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [26790, 75220, 87361]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [26790, 70614, 75220, 76556, 87361, 89740]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [65550, 99271]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [65550, 74304, 99271]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [23608, 55942]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [23608, 55942, 70344]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [23608, 55942, 65550, 70344, 74304, 99271]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [23608, 26790, 55942, 65550, 70344, 70614, 74304, 75220, 76556, 87361, 89740, 99271]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [87078, 94696]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [87062, 87078, 94696]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3997, 55474]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3997, 55474, 64223]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [3997, 55474, 64223, 87062, 87078, 94696]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [67079, 78001]
+
+24-10-2018 17:40:41 DEBUG [main] MergeSorter - [67079, 69720, 78001]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31651, 83503]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31651, 31853, 83503]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31651, 31853, 67079, 69720, 78001, 83503]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [3997, 31651, 31853, 55474, 64223, 67079, 69720, 78001, 83503, 87062, 87078, 94696]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [3997, 23608, 26790, 31651, 31853, 55474, 55942, 64223, 65550, 67079, 69720, 70344, 70614, 74304, 75220, 76556, 78001, 83503, 87062, 87078, 87361, 89740, 94696, 99271]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5724, 45239]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5724, 17807, 45239]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [37158, 46922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16495, 37158, 46922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5724, 16495, 17807, 37158, 45239, 46922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [30009, 35951]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [30009, 35951, 65062]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [23282, 62565]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [23282, 62565, 94960]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [23282, 30009, 35951, 62565, 65062, 94960]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5724, 16495, 17807, 23282, 30009, 35951, 37158, 45239, 46922, 62565, 65062, 94960]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18833, 27455]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18833, 27455, 41218]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [91380, 97524]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [49535, 91380, 97524]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18833, 27455, 41218, 49535, 91380, 97524]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [15322, 73101]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [15322, 70054, 73101]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [28936, 75544]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4539, 84714]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4539, 28936, 75544, 84714]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4539, 15322, 28936, 70054, 73101, 75544, 84714]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4539, 15322, 18833, 27455, 28936, 41218, 49535, 70054, 73101, 75544, 84714, 91380, 97524]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4539, 5724, 15322, 16495, 17807, 18833, 23282, 27455, 28936, 30009, 35951, 37158, 41218, 45239, 46922, 49535, 62565, 65062, 70054, 73101, 75544, 84714, 91380, 94960, 97524]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [3997, 4539, 5724, 15322, 16495, 17807, 18833, 23282, 23608, 26790, 27455, 28936, 30009, 31651, 31853, 35951, 37158, 41218, 45239, 46922, 49535, 55474, 55942, 62565, 64223, 65062, 65550, 67079, 69720, 70054, 70344, 70614, 73101, 74304, 75220, 75544, 76556, 78001, 83503, 84714, 87062, 87078, 87361, 89740, 91380, 94696, 94960, 97524, 99271]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [91, 3997, 4539, 5593, 5724, 5873, 7037, 7250, 8512, 13017, 14293, 14682, 15322, 16495, 17711, 17807, 18066, 18833, 19184, 19834, 23282, 23608, 23627, 26790, 27455, 27812, 27814, 28936, 30009, 31252, 31651, 31853, 34692, 35951, 37158, 38871, 39480, 41218, 43431, 45239, 45738, 46922, 49069, 49535, 52077, 53011, 53167, 53423, 55461, 55474, 55942, 57171, 60099, 62010, 62485, 62565, 64223, 64534, 65062, 65550, 67079, 68255, 69003, 69720, 70054, 70297, 70344, 70614, 73101, 74304, 75220, 75544, 76556, 78001, 78880, 79711, 80252, 83503, 84679, 84714, 85964, 86662, 87062, 87078, 87361, 87608, 88362, 88725, 89740, 91380, 91558, 92315, 94696, 94960, 95146, 97524, 99271]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31560, 39172]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [14929, 31560, 39172]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [44984, 54242]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [44984, 54242, 97790]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [14929, 31560, 39172, 44984, 54242, 97790]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [21234, 32682]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [21234, 32682, 82117]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [40757, 43142]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [40757, 43142, 49079]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [21234, 32682, 40757, 43142, 49079, 82117]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [14929, 21234, 31560, 32682, 39172, 40757, 43142, 44984, 49079, 54242, 82117, 97790]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [38502, 87566]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [38502, 87566, 96829]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [45350, 95001]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [45350, 67456, 95001]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [38502, 45350, 67456, 87566, 95001, 96829]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [74912, 75017]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5712, 74912, 75017]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [13231, 76285]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [13231, 21519, 76285]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5712, 13231, 21519, 74912, 75017, 76285]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5712, 13231, 21519, 38502, 45350, 67456, 74912, 75017, 76285, 87566, 95001, 96829]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [5712, 13231, 14929, 21234, 21519, 31560, 32682, 38502, 39172, 40757, 43142, 44984, 45350, 49079, 54242, 67456, 74912, 75017, 76285, 82117, 87566, 95001, 96829, 97790]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [2718, 92078]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1123, 2718, 92078]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [13081, 67139]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [13081, 67139, 69632]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1123, 2718, 13081, 67139, 69632, 92078]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4932, 25321]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4932, 25321, 56890]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [29927, 77168]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [29927, 35228, 77168]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4932, 25321, 29927, 35228, 56890, 77168]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1123, 2718, 4932, 13081, 25321, 29927, 35228, 56890, 67139, 69632, 77168, 92078]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [68716, 78865]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [25058, 68716, 78865]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18779, 37549]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18779, 37549, 85626]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18779, 25058, 37549, 68716, 78865, 85626]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18965, 35292]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18965, 35292, 79327]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [49900, 66935]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [36932, 85284]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [36932, 49900, 66935, 85284]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18965, 35292, 36932, 49900, 66935, 79327, 85284]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [18779, 18965, 25058, 35292, 36932, 37549, 49900, 66935, 68716, 78865, 79327, 85284, 85626]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1123, 2718, 4932, 13081, 18779, 18965, 25058, 25321, 29927, 35228, 35292, 36932, 37549, 49900, 56890, 66935, 67139, 68716, 69632, 77168, 78865, 79327, 85284, 85626, 92078]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1123, 2718, 4932, 5712, 13081, 13231, 14929, 18779, 18965, 21234, 21519, 25058, 25321, 29927, 31560, 32682, 35228, 35292, 36932, 37549, 38502, 39172, 40757, 43142, 44984, 45350, 49079, 49900, 54242, 56890, 66935, 67139, 67456, 68716, 69632, 74912, 75017, 76285, 77168, 78865, 79327, 82117, 85284, 85626, 87566, 92078, 95001, 96829, 97790]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [19823, 70750]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [19823, 70750, 90421]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [80426, 90687]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [21962, 80426, 90687]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [19823, 21962, 70750, 80426, 90421, 90687]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [48724, 88267]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16556, 48724, 88267]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [80332, 84142]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [39886, 80332, 84142]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16556, 39886, 48724, 80332, 84142, 88267]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16556, 19823, 21962, 39886, 48724, 70750, 80332, 80426, 84142, 88267, 90421, 90687]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [21954, 46077]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [21954, 46077, 68587]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4179, 93922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4179, 11597, 93922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4179, 11597, 21954, 46077, 68587, 93922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42482, 88865]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42482, 85169, 88865]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [82438, 85218]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [54392, 82438, 85218]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42482, 54392, 82438, 85169, 85218, 88865]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4179, 11597, 21954, 42482, 46077, 54392, 68587, 82438, 85169, 85218, 88865, 93922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [4179, 11597, 16556, 19823, 21954, 21962, 39886, 42482, 46077, 48724, 54392, 68587, 70750, 80332, 80426, 82438, 84142, 85169, 85218, 88267, 88865, 90421, 90687, 93922]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [46507, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [12836, 46507, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 38588]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 17765, 38588]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 12836, 17765, 38588, 46507, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42183, 65236]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42183, 58218, 65236]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31121, 73860]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31121, 73860, 79011]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [31121, 42183, 58218, 65236, 73860, 79011]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 12836, 17765, 31121, 38588, 42183, 46507, 58218, 65236, 73860, 79011, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [43781, 81926]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [43781, 72644, 81926]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [19311, 66236]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [19311, 51102, 66236]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [19311, 43781, 51102, 66236, 72644, 81926]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [20792, 43668]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [20792, 28391, 43668]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8823, 68105]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [40339, 47419]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8823, 40339, 47419, 68105]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8823, 20792, 28391, 40339, 43668, 47419, 68105]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8823, 19311, 20792, 28391, 40339, 43668, 43781, 47419, 51102, 66236, 68105, 72644, 81926]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 8823, 12836, 17765, 19311, 20792, 28391, 31121, 38588, 40339, 42183, 43668, 43781, 46507, 47419, 51102, 58218, 65236, 66236, 68105, 72644, 73860, 79011, 81926, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 4179, 8823, 11597, 12836, 16556, 17765, 19311, 19823, 20792, 21954, 21962, 28391, 31121, 38588, 39886, 40339, 42183, 42482, 43668, 43781, 46077, 46507, 47419, 48724, 51102, 54392, 58218, 65236, 66236, 68105, 68587, 70750, 72644, 73860, 79011, 80332, 80426, 81926, 82438, 84142, 85169, 85218, 88267, 88865, 90421, 90687, 93922, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1020, 1123, 2718, 4179, 4932, 5712, 8823, 11597, 12836, 13081, 13231, 14929, 16556, 17765, 18779, 18965, 19311, 19823, 20792, 21234, 21519, 21954, 21962, 25058, 25321, 28391, 29927, 31121, 31560, 32682, 35228, 35292, 36932, 37549, 38502, 38588, 39172, 39886, 40339, 40757, 42183, 42482, 43142, 43668, 43781, 44984, 45350, 46077, 46507, 47419, 48724, 49079, 49900, 51102, 54242, 54392, 56890, 58218, 65236, 66236, 66935, 67139, 67456, 68105, 68587, 68716, 69632, 70750, 72644, 73860, 74912, 75017, 76285, 77168, 78865, 79011, 79327, 80332, 80426, 81926, 82117, 82438, 84142, 85169, 85218, 85284, 85626, 87566, 88267, 88865, 90421, 90687, 92078, 93922, 95001, 96829, 97790, 98625]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [91, 1020, 1123, 2718, 3997, 4179, 4539, 4932, 5593, 5712, 5724, 5873, 7037, 7250, 8512, 8823, 11597, 12836, 13017, 13081, 13231, 14293, 14682, 14929, 15322, 16495, 16556, 17711, 17765, 17807, 18066, 18779, 18833, 18965, 19184, 19311, 19823, 19834, 20792, 21234, 21519, 21954, 21962, 23282, 23608, 23627, 25058, 25321, 26790, 27455, 27812, 27814, 28391, 28936, 29927, 30009, 31121, 31252, 31560, 31651, 31853, 32682, 34692, 35228, 35292, 35951, 36932, 37158, 37549, 38502, 38588, 38871, 39172, 39480, 39886, 40339, 40757, 41218, 42183, 42482, 43142, 43431, 43668, 43781, 44984, 45239, 45350, 45738, 46077, 46507, 46922, 47419, 48724, 49069, 49079, 49535, 49900, 51102, 52077, 53011, 53167, 53423, 54242, 54392, 55461, 55474, 55942, 56890, 57171, 58218, 60099, 62010, 62485, 62565, 64223, 64534, 65062, 65236, 65550, 66236, 66935, 67079, 67139, 67456, 68105, 68255, 68587, 68716, 69003, 69632, 69720, 70054, 70297, 70344, 70614, 70750, 72644, 73101, 73860, 74304, 74912, 75017, 75220, 75544, 76285, 76556, 77168, 78001, 78865, 78880, 79011, 79327, 79711, 80252, 80332, 80426, 81926, 82117, 82438, 83503, 84142, 84679, 84714, 85169, 85218, 85284, 85626, 85964, 86662, 87062, 87078, 87361, 87566, 87608, 88267, 88362, 88725, 88865, 89740, 90421, 90687, 91380, 91558, 92078, 92315, 93922, 94696, 94960, 95001, 95146, 96829, 97524, 97790, 98625, 99271]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [91, 1020, 1123, 2341, 2561, 2718, 2933, 3108, 3167, 3486, 3505, 3533, 3997, 4016, 4179, 4539, 4561, 4565, 4678, 4932, 5593, 5691, 5712, 5724, 5873, 6447, 6563, 6942, 7037, 7250, 7546, 7890, 7972, 8087, 8512, 8693, 8823, 9112, 9442, 9519, 9825, 10771, 11365, 11597, 11770, 12173, 12836, 12930, 13017, 13081, 13231, 13310, 13381, 13457, 13682, 14261, 14293, 14336, 14682, 14766, 14801, 14929, 15058, 15183, 15322, 15512, 16170, 16263, 16495, 16556, 16665, 17711, 17765, 17807, 18066, 18348, 18703, 18779, 18833, 18836, 18865, 18965, 19184, 19311, 19470, 19578, 19645, 19823, 19834, 19967, 20021, 20094, 20792, 21234, 21280, 21519, 21935, 21954, 21962, 22716, 22976, 23282, 23608, 23611, 23627, 24607, 25058, 25321, 25703, 26232, 26645, 26790, 27455, 27553, 27812, 27814, 28124, 28391, 28562, 28741, 28936, 28966, 29118, 29927, 30009, 31121, 31191, 31252, 31292, 31560, 31651, 31853, 31903, 31927, 32536, 32682, 34071, 34692, 34741, 34792, 35228, 35254, 35292, 35951, 36802, 36932, 37158, 37549, 38502, 38588, 38871, 39110, 39113, 39172, 39480, 39886, 40339, 40757, 40837, 41015, 41093, 41218, 41701, 41777, 42183, 42482, 42532, 42810, 43142, 43414, 43431, 43668, 43781, 44113, 44984, 45166, 45239, 45350, 45715, 45738, 46077, 46161, 46335, 46393, 46507, 46922, 46986, 47419, 48228, 48581, 48724, 49069, 49079, 49535, 49639, 49900, 50204, 50348, 50463, 50472, 50794, 50960, 51102, 51955, 52077, 53011, 53167, 53423, 53577, 53647, 53903, 54242, 54392, 55163, 55461, 55474, 55545, 55942, 56890, 57171, 58201, 58218, 58344, 58557, 59146, 59338, 59558, 60099, 60427, 60485, 61666, 61716, 61810, 62010, 62485, 62565, 64159, 64223, 64345, 64386, 64534, 65062, 65236, 65401, 65447, 65499, 65550, 65999, 66047, 66141, 66236, 66596, 66870, 66906, 66935, 67079, 67139, 67450, 67456, 67475, 68105, 68255, 68392, 68587, 68614, 68716, 69003, 69277, 69582, 69632, 69720, 70054, 70297, 70344, 70614, 70750, 71045, 71787, 72644, 73101, 73492, 73860, 74304, 74469, 74510, 74627, 74901, 74912, 75017, 75220, 75449, 75544, 76285, 76437, 76556, 77168, 77517, 78001, 78091, 78861, 78865, 78880, 79011, 79236, 79327, 79711, 80093, 80252, 80332, 80426, 80846, 81926, 82117, 82184, 82382, 82438, 83252, 83503, 83586, 84142, 84207, 84679, 84714, 84782, 84961, 85169, 85177, 85218, 85284, 85423, 85493, 85626, 85937, 85964, 86662, 86877, 87062, 87078, 87361, 87566, 87608, 87826, 88267, 88362, 88725, 88865, 89182, 89196, 89374, 89740, 90157, 90421, 90569, 90687, 90967, 91023, 91380, 91558, 92026, 92078, 92315, 92630, 93125, 93904, 93922, 94113, 94192, 94240, 94344, 94381, 94497, 94696, 94960, 95001, 95146, 95378, 96177, 96568, 96829, 97272, 97524, 97790, 98210, 98230, 98612, 98625, 99238, 99271, 99273, 99767]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [75070, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [66021, 75070, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [57055, 85191]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [20139, 57055, 85191]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [20139, 57055, 66021, 75070, 85191, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [62319, 98526]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [62319, 90630, 98526]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [46490, 71105]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [46490, 71105, 88407]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [46490, 62319, 71105, 88407, 90630, 98526]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [20139, 46490, 57055, 62319, 66021, 71105, 75070, 85191, 88407, 90630, 98526, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [10068, 52662]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [10068, 52662, 76371]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [41921, 47776]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [27079, 41921, 47776]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [10068, 27079, 41921, 47776, 52662, 76371]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [63586, 79380]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [63586, 79380, 83210]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [12586, 69649]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [12586, 61263, 69649]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [12586, 61263, 63586, 69649, 79380, 83210]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [10068, 12586, 27079, 41921, 47776, 52662, 61263, 63586, 69649, 76371, 79380, 83210]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [10068, 12586, 20139, 27079, 41921, 46490, 47776, 52662, 57055, 61263, 62319, 63586, 66021, 69649, 71105, 75070, 76371, 79380, 83210, 85191, 88407, 90630, 98526, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [986, 59791]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [986, 42423, 59791]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [11469, 26381]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [11469, 26381, 36055]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [986, 11469, 26381, 36055, 42423, 59791]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [39946, 52315]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16301, 39946, 52315]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [43423, 52455]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [22067, 43423, 52455]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16301, 22067, 39946, 43423, 52315, 52455]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [986, 11469, 16301, 22067, 26381, 36055, 39946, 42423, 43423, 52315, 52455, 59791]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [26924, 75729]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [26924, 43027, 75729]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16349, 60420]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16349, 60420, 82656]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16349, 26924, 43027, 60420, 75729, 82656]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [49972, 61668]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [49972, 61668, 87006]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [32052, 67393]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [15403, 32052, 67393]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [15403, 32052, 49972, 61668, 67393, 87006]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [15403, 16349, 26924, 32052, 43027, 49972, 60420, 61668, 67393, 75729, 82656, 87006]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [986, 11469, 15403, 16301, 16349, 22067, 26381, 26924, 32052, 36055, 39946, 42423, 43027, 43423, 49972, 52315, 52455, 59791, 60420, 61668, 67393, 75729, 82656, 87006]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [986, 10068, 11469, 12586, 15403, 16301, 16349, 20139, 22067, 26381, 26924, 27079, 32052, 36055, 39946, 41921, 42423, 43027, 43423, 46490, 47776, 49972, 52315, 52455, 52662, 57055, 59791, 60420, 61263, 61668, 62319, 63586, 66021, 67393, 69649, 71105, 75070, 75729, 76371, 79380, 82656, 83210, 85191, 87006, 88407, 90630, 98526, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [62216, 99800]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [62203, 62216, 99800]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [53674, 81098]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [33597, 53674, 81098]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [33597, 53674, 62203, 62216, 81098, 99800]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [25409, 83129]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [25409, 71705, 83129]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [7207, 83288]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [7207, 71946, 83288]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [7207, 25409, 71705, 71946, 83129, 83288]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [7207, 25409, 33597, 53674, 62203, 62216, 71705, 71946, 81098, 83129, 83288, 99800]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [22956, 60465]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [22956, 27895, 60465]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [56775, 78836]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [56775, 67189, 78836]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [22956, 27895, 56775, 60465, 67189, 78836]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [96275, 96872]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [48791, 96275, 96872]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [75534, 79034]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [14614, 75534, 79034]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [14614, 48791, 75534, 79034, 96275, 96872]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [14614, 22956, 27895, 48791, 56775, 60465, 67189, 75534, 78836, 79034, 96275, 96872]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [7207, 14614, 22956, 25409, 27895, 33597, 48791, 53674, 56775, 60465, 62203, 62216, 67189, 71705, 71946, 75534, 78836, 79034, 81098, 83129, 83288, 96275, 96872, 99800]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [35119, 40085]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [35119, 40085, 54336]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [32333, 71588]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1389, 32333, 71588]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1389, 32333, 35119, 40085, 54336, 71588]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [6214, 36541]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1280, 6214, 36541]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [53855, 80666]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [53855, 66221, 80666]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1280, 6214, 36541, 53855, 66221, 80666]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1280, 1389, 6214, 32333, 35119, 36541, 40085, 53855, 54336, 66221, 71588, 80666]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 63195]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 4796, 63195]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [71913, 98875]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [71913, 82342, 98875]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 4796, 63195, 71913, 82342, 98875]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42940, 69866]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [42940, 69866, 71474]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [9771, 58577]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [24350, 55455]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [9771, 24350, 55455, 58577]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [9771, 24350, 42940, 55455, 58577, 69866, 71474]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 4796, 9771, 24350, 42940, 55455, 58577, 63195, 69866, 71474, 71913, 82342, 98875]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 1280, 1389, 4796, 6214, 9771, 24350, 32333, 35119, 36541, 40085, 42940, 53855, 54336, 55455, 58577, 63195, 66221, 69866, 71474, 71588, 71913, 80666, 82342, 98875]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 1280, 1389, 4796, 6214, 7207, 9771, 14614, 22956, 24350, 25409, 27895, 32333, 33597, 35119, 36541, 40085, 42940, 48791, 53674, 53855, 54336, 55455, 56775, 58577, 60465, 62203, 62216, 63195, 66221, 67189, 69866, 71474, 71588, 71705, 71913, 71946, 75534, 78836, 79034, 80666, 81098, 82342, 83129, 83288, 96275, 96872, 98875, 99800]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [424, 986, 1280, 1389, 4796, 6214, 7207, 9771, 10068, 11469, 12586, 14614, 15403, 16301, 16349, 20139, 22067, 22956, 24350, 25409, 26381, 26924, 27079, 27895, 32052, 32333, 33597, 35119, 36055, 36541, 39946, 40085, 41921, 42423, 42940, 43027, 43423, 46490, 47776, 48791, 49972, 52315, 52455, 52662, 53674, 53855, 54336, 55455, 56775, 57055, 58577, 59791, 60420, 60465, 61263, 61668, 62203, 62216, 62319, 63195, 63586, 66021, 66221, 67189, 67393, 69649, 69866, 71105, 71474, 71588, 71705, 71913, 71946, 75070, 75534, 75729, 76371, 78836, 79034, 79380, 80666, 81098, 82342, 82656, 83129, 83210, 83288, 85191, 87006, 88407, 90630, 96275, 96872, 98526, 98875, 99800, 99942]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [29067, 84682]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [29067, 42790, 84682]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [83176, 93780]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [35475, 83176, 93780]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [29067, 35475, 42790, 83176, 84682, 93780]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1418, 85712]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1418, 85712, 97227]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [22951, 27468]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [22951, 27468, 50793]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1418, 22951, 27468, 50793, 85712, 97227]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1418, 22951, 27468, 29067, 35475, 42790, 50793, 83176, 84682, 85712, 93780, 97227]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [32999, 84358]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [32999, 62529, 84358]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [50596, 71523]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [34487, 50596, 71523]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [32999, 34487, 50596, 62529, 71523, 84358]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8072, 49693]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8072, 35164, 49693]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [40347, 59357]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [40347, 59357, 86131]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8072, 35164, 40347, 49693, 59357, 86131]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [8072, 32999, 34487, 35164, 40347, 49693, 50596, 59357, 62529, 71523, 84358, 86131]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [1418, 8072, 22951, 27468, 29067, 32999, 34487, 35164, 35475, 40347, 42790, 49693, 50596, 50793, 59357, 62529, 71523, 83176, 84358, 84682, 85712, 86131, 93780, 97227]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [32966, 90703]
+
+24-10-2018 17:40:42 DEBUG [main] MergeSorter - [16968, 32966, 90703]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7309, 23906]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7309, 23906, 52506]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7309, 16968, 23906, 32966, 52506, 90703]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [18219, 67958]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [18219, 46858, 67958]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [36552, 48456]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [12598, 36552, 48456]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [12598, 18219, 36552, 46858, 48456, 67958]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7309, 12598, 16968, 18219, 23906, 32966, 36552, 46858, 48456, 52506, 67958, 90703]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [10325, 23964]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [10325, 23964, 64231]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [5784, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [5784, 27537, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [5784, 10325, 23964, 27537, 64231, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [35040, 93291]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [32626, 35040, 93291]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 27254]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [16000, 34785]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 16000, 27254, 34785]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 16000, 27254, 32626, 34785, 35040, 93291]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 5784, 10325, 16000, 23964, 27254, 27537, 32626, 34785, 35040, 64231, 93291, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 5784, 7309, 10325, 12598, 16000, 16968, 18219, 23906, 23964, 27254, 27537, 32626, 32966, 34785, 35040, 36552, 46858, 48456, 52506, 64231, 67958, 90703, 93291, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 1418, 5784, 7309, 8072, 10325, 12598, 16000, 16968, 18219, 22951, 23906, 23964, 27254, 27468, 27537, 29067, 32626, 32966, 32999, 34487, 34785, 35040, 35164, 35475, 36552, 40347, 42790, 46858, 48456, 49693, 50596, 50793, 52506, 59357, 62529, 64231, 67958, 71523, 83176, 84358, 84682, 85712, 86131, 90703, 93291, 93780, 97227, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [8807, 14979]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3083, 8807, 14979]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [13229, 49738]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [13229, 31730, 49738]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3083, 8807, 13229, 14979, 31730, 49738]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [50004, 56979]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [50004, 56979, 64067]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [5594, 13239]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [5594, 12378, 13239]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [5594, 12378, 13239, 50004, 56979, 64067]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3083, 5594, 8807, 12378, 13229, 13239, 14979, 31730, 49738, 50004, 56979, 64067]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [61628, 98176]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [61628, 81432, 98176]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [26417, 87500]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [18856, 26417, 87500]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [18856, 26417, 61628, 81432, 87500, 98176]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [63062, 96527]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [33787, 63062, 96527]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [13736, 55185]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [13736, 55185, 64197]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [13736, 33787, 55185, 63062, 64197, 96527]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [13736, 18856, 26417, 33787, 55185, 61628, 63062, 64197, 81432, 87500, 96527, 98176]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3083, 5594, 8807, 12378, 13229, 13239, 13736, 14979, 18856, 26417, 31730, 33787, 49738, 50004, 55185, 56979, 61628, 63062, 64067, 64197, 81432, 87500, 96527, 98176]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [2053, 64837]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [2053, 64837, 99109]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [66478, 84759]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [66478, 70542, 84759]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [2053, 64837, 66478, 70542, 84759, 99109]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3079, 12614]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3079, 12614, 86008]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [10111, 11840]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [8543, 10111, 11840]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [3079, 8543, 10111, 11840, 12614, 86008]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [2053, 3079, 8543, 10111, 11840, 12614, 64837, 66478, 70542, 84759, 86008, 99109]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [50928, 62390]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [50928, 56748, 62390]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [36508, 36977]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [36508, 36977, 41091]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [36508, 36977, 41091, 50928, 56748, 62390]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15303, 91916]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15303, 91916, 97439]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [56113, 76250]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [36322, 81442]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [36322, 56113, 76250, 81442]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15303, 36322, 56113, 76250, 81442, 91916, 97439]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15303, 36322, 36508, 36977, 41091, 50928, 56113, 56748, 62390, 76250, 81442, 91916, 97439]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [2053, 3079, 8543, 10111, 11840, 12614, 15303, 36322, 36508, 36977, 41091, 50928, 56113, 56748, 62390, 64837, 66478, 70542, 76250, 81442, 84759, 86008, 91916, 97439, 99109]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [2053, 3079, 3083, 5594, 8543, 8807, 10111, 11840, 12378, 12614, 13229, 13239, 13736, 14979, 15303, 18856, 26417, 31730, 33787, 36322, 36508, 36977, 41091, 49738, 50004, 50928, 55185, 56113, 56748, 56979, 61628, 62390, 63062, 64067, 64197, 64837, 66478, 70542, 76250, 81432, 81442, 84759, 86008, 87500, 91916, 96527, 97439, 98176, 99109]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1415, 1418, 2053, 3079, 3083, 5594, 5784, 7309, 8072, 8543, 8807, 10111, 10325, 11840, 12378, 12598, 12614, 13229, 13239, 13736, 14979, 15303, 16000, 16968, 18219, 18856, 22951, 23906, 23964, 26417, 27254, 27468, 27537, 29067, 31730, 32626, 32966, 32999, 33787, 34487, 34785, 35040, 35164, 35475, 36322, 36508, 36552, 36977, 40347, 41091, 42790, 46858, 48456, 49693, 49738, 50004, 50596, 50793, 50928, 52506, 55185, 56113, 56748, 56979, 59357, 61628, 62390, 62529, 63062, 64067, 64197, 64231, 64837, 66478, 67958, 70542, 71523, 76250, 81432, 81442, 83176, 84358, 84682, 84759, 85712, 86008, 86131, 87500, 90703, 91916, 93291, 93780, 96527, 97227, 97439, 98176, 99109, 99455]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [424, 986, 1280, 1389, 1415, 1418, 2053, 3079, 3083, 4796, 5594, 5784, 6214, 7207, 7309, 8072, 8543, 8807, 9771, 10068, 10111, 10325, 11469, 11840, 12378, 12586, 12598, 12614, 13229, 13239, 13736, 14614, 14979, 15303, 15403, 16000, 16301, 16349, 16968, 18219, 18856, 20139, 22067, 22951, 22956, 23906, 23964, 24350, 25409, 26381, 26417, 26924, 27079, 27254, 27468, 27537, 27895, 29067, 31730, 32052, 32333, 32626, 32966, 32999, 33597, 33787, 34487, 34785, 35040, 35119, 35164, 35475, 36055, 36322, 36508, 36541, 36552, 36977, 39946, 40085, 40347, 41091, 41921, 42423, 42790, 42940, 43027, 43423, 46490, 46858, 47776, 48456, 48791, 49693, 49738, 49972, 50004, 50596, 50793, 50928, 52315, 52455, 52506, 52662, 53674, 53855, 54336, 55185, 55455, 56113, 56748, 56775, 56979, 57055, 58577, 59357, 59791, 60420, 60465, 61263, 61628, 61668, 62203, 62216, 62319, 62390, 62529, 63062, 63195, 63586, 64067, 64197, 64231, 64837, 66021, 66221, 66478, 67189, 67393, 67958, 69649, 69866, 70542, 71105, 71474, 71523, 71588, 71705, 71913, 71946, 75070, 75534, 75729, 76250, 76371, 78836, 79034, 79380, 80666, 81098, 81432, 81442, 82342, 82656, 83129, 83176, 83210, 83288, 84358, 84682, 84759, 85191, 85712, 86008, 86131, 87006, 87500, 88407, 90630, 90703, 91916, 93291, 93780, 96275, 96527, 96872, 97227, 97439, 98176, 98526, 98875, 99109, 99455, 99800, 99942]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 43391]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 42890, 43391]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [44522, 47907]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [44522, 47907, 67735]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 42890, 43391, 44522, 47907, 67735]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15688, 64784]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15688, 64784, 79935]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [34698, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [34698, 96807, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15688, 34698, 64784, 79935, 96807, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 15688, 34698, 42890, 43391, 44522, 47907, 64784, 67735, 79935, 96807, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [75792, 78492]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [59634, 75792, 78492]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [16136, 33289]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [16136, 33289, 53675]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [16136, 33289, 53675, 59634, 75792, 78492]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [61155, 81204]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [61155, 81204, 82707]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [25785, 91422]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [25785, 49223, 91422]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [25785, 49223, 61155, 81204, 82707, 91422]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [16136, 25785, 33289, 49223, 53675, 59634, 61155, 75792, 78492, 81204, 82707, 91422]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 15688, 16136, 25785, 33289, 34698, 42890, 43391, 44522, 47907, 49223, 53675, 59634, 61155, 64784, 67735, 75792, 78492, 79935, 81204, 82707, 91422, 96807, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [19281, 78556]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [19281, 21777, 78556]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [17094, 75581]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [17094, 54082, 75581]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [17094, 19281, 21777, 54082, 75581, 78556]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [17430, 80524]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [17430, 32635, 80524]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [4546, 97431]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [4546, 40297, 97431]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [4546, 17430, 32635, 40297, 80524, 97431]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [4546, 17094, 17430, 19281, 21777, 32635, 40297, 54082, 75581, 78556, 80524, 97431]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [55318, 57926]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7023, 55318, 57926]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [35997, 42623]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [35997, 42623, 82164]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7023, 35997, 42623, 55318, 57926, 82164]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15879, 97779]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15879, 70129, 97779]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [26398, 44291]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [19278, 64520]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [19278, 26398, 44291, 64520]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [15879, 19278, 26398, 44291, 64520, 70129, 97779]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [7023, 15879, 19278, 26398, 35997, 42623, 44291, 55318, 57926, 64520, 70129, 82164, 97779]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [4546, 7023, 15879, 17094, 17430, 19278, 19281, 21777, 26398, 32635, 35997, 40297, 42623, 44291, 54082, 55318, 57926, 64520, 70129, 75581, 78556, 80524, 82164, 97431, 97779]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 4546, 7023, 15688, 15879, 16136, 17094, 17430, 19278, 19281, 21777, 25785, 26398, 32635, 33289, 34698, 35997, 40297, 42623, 42890, 43391, 44291, 44522, 47907, 49223, 53675, 54082, 55318, 57926, 59634, 61155, 64520, 64784, 67735, 70129, 75581, 75792, 78492, 78556, 79935, 80524, 81204, 82164, 82707, 91422, 96807, 97431, 97779, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [25233, 59878]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [25233, 59878, 92848]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [23066, 73321]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [23066, 31514, 73321]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [23066, 25233, 31514, 59878, 73321, 92848]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [32220, 74407]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [32220, 45581, 74407]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21151, 85221]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21151, 61450, 85221]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21151, 32220, 45581, 61450, 74407, 85221]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21151, 23066, 25233, 31514, 32220, 45581, 59878, 61450, 73321, 74407, 85221, 92848]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14968, 78364]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14968, 63929, 78364]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14829, 90831]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14829, 90831, 95865]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14829, 14968, 63929, 78364, 90831, 95865]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [9526, 65527]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [9526, 65527, 96642]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [84931, 95471]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [84931, 90058, 95471]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [9526, 65527, 84931, 90058, 95471, 96642]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [9526, 14829, 14968, 63929, 65527, 78364, 84931, 90058, 90831, 95471, 95865, 96642]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [9526, 14829, 14968, 21151, 23066, 25233, 31514, 32220, 45581, 59878, 61450, 63929, 65527, 73321, 74407, 78364, 84931, 85221, 90058, 90831, 92848, 95471, 95865, 96642]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [56409, 62856]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [56409, 57561, 62856]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [80148, 97088]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [80148, 89905, 97088]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [56409, 57561, 62856, 80148, 89905, 97088]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [46700, 57953]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [46700, 57953, 98242]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [43366, 67912]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [29662, 43366, 67912]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [29662, 43366, 46700, 57953, 67912, 98242]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [29662, 43366, 46700, 56409, 57561, 57953, 62856, 67912, 80148, 89905, 97088, 98242]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [34386, 94795]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [24306, 34386, 94795]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [28754, 90458]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [28754, 90458, 91873]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [24306, 28754, 34386, 90458, 91873, 94795]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14935, 44859]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [14935, 44859, 53713]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1758, 7913]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [85687, 97886]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1758, 7913, 85687, 97886]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1758, 7913, 14935, 44859, 53713, 85687, 97886]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1758, 7913, 14935, 24306, 28754, 34386, 44859, 53713, 85687, 90458, 91873, 94795, 97886]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1758, 7913, 14935, 24306, 28754, 29662, 34386, 43366, 44859, 46700, 53713, 56409, 57561, 57953, 62856, 67912, 80148, 85687, 89905, 90458, 91873, 94795, 97088, 97886, 98242]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [1758, 7913, 9526, 14829, 14935, 14968, 21151, 23066, 24306, 25233, 28754, 29662, 31514, 32220, 34386, 43366, 44859, 45581, 46700, 53713, 56409, 57561, 57953, 59878, 61450, 62856, 63929, 65527, 67912, 73321, 74407, 78364, 80148, 84931, 85221, 85687, 89905, 90058, 90458, 90831, 91873, 92848, 94795, 95471, 95865, 96642, 97088, 97886, 98242]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [954, 1758, 4546, 7023, 7913, 9526, 14829, 14935, 14968, 15688, 15879, 16136, 17094, 17430, 19278, 19281, 21151, 21777, 23066, 24306, 25233, 25785, 26398, 28754, 29662, 31514, 32220, 32635, 33289, 34386, 34698, 35997, 40297, 42623, 42890, 43366, 43391, 44291, 44522, 44859, 45581, 46700, 47907, 49223, 53675, 53713, 54082, 55318, 56409, 57561, 57926, 57953, 59634, 59878, 61155, 61450, 62856, 63929, 64520, 64784, 65527, 67735, 67912, 70129, 73321, 74407, 75581, 75792, 78364, 78492, 78556, 79935, 80148, 80524, 81204, 82164, 82707, 84931, 85221, 85687, 89905, 90058, 90458, 90831, 91422, 91873, 92848, 94795, 95471, 95865, 96642, 96807, 97088, 97431, 97779, 97886, 98242, 99247]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [62599, 97932]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [11369, 62599, 97932]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [61299, 81711]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [61299, 81711, 96309]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [11369, 61299, 62599, 81711, 96309, 97932]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [75952, 85898]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [48795, 75952, 85898]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [47124, 64232]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [47124, 51388, 64232]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [47124, 48795, 51388, 64232, 75952, 85898]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [11369, 47124, 48795, 51388, 61299, 62599, 64232, 75952, 81711, 85898, 96309, 97932]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [45430, 73403]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [45430, 73403, 90199]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [62365, 80542]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [59024, 62365, 80542]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [45430, 59024, 62365, 73403, 80542, 90199]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21134, 31797]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21134, 31797, 58364]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [30673, 57285]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [30673, 57285, 64002]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21134, 30673, 31797, 57285, 58364, 64002]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [21134, 30673, 31797, 45430, 57285, 58364, 59024, 62365, 64002, 73403, 80542, 90199]
+
+24-10-2018 17:40:43 DEBUG [main] MergeSorter - [11369, 21134, 30673, 31797, 45430, 47124, 48795, 51388, 57285, 58364, 59024, 61299, 62365, 62599, 64002, 64232, 73403, 75952, 80542, 81711, 85898, 90199, 96309, 97932]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [5195, 98860]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [5195, 82757, 98860]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [3759, 34276]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [3759, 34276, 70093]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [3759, 5195, 34276, 70093, 82757, 98860]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [64081, 92519]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [15285, 64081, 92519]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [5161, 10595]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [5161, 10595, 27891]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [5161, 10595, 15285, 27891, 64081, 92519]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [3759, 5161, 5195, 10595, 15285, 27891, 34276, 64081, 70093, 82757, 92519, 98860]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [1159, 31544]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [1159, 31544, 78394]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [56386, 83113]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [34069, 56386, 83113]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [1159, 31544, 34069, 56386, 78394, 83113]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [18124, 43981]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [18124, 43981, 68499]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [69998, 72493]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [50799, 76787]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [50799, 69998, 72493, 76787]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [18124, 43981, 50799, 68499, 69998, 72493, 76787]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [1159, 18124, 31544, 34069, 43981, 50799, 56386, 68499, 69998, 72493, 76787, 78394, 83113]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [1159, 3759, 5161, 5195, 10595, 15285, 18124, 27891, 31544, 34069, 34276, 43981, 50799, 56386, 64081, 68499, 69998, 70093, 72493, 76787, 78394, 82757, 83113, 92519, 98860]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [1159, 3759, 5161, 5195, 10595, 11369, 15285, 18124, 21134, 27891, 30673, 31544, 31797, 34069, 34276, 43981, 45430, 47124, 48795, 50799, 51388, 56386, 57285, 58364, 59024, 61299, 62365, 62599, 64002, 64081, 64232, 68499, 69998, 70093, 72493, 73403, 75952, 76787, 78394, 80542, 81711, 82757, 83113, 85898, 90199, 92519, 96309, 97932, 98860]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [44735, 61127]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [44735, 48925, 61127]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [42923, 80720]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [42923, 62696, 80720]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [42923, 44735, 48925, 61127, 62696, 80720]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [34499, 73104]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [34499, 59481, 73104]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [61873, 90222]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [60251, 61873, 90222]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [34499, 59481, 60251, 61873, 73104, 90222]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [34499, 42923, 44735, 48925, 59481, 60251, 61127, 61873, 62696, 73104, 80720, 90222]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [33849, 67062]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [33849, 50403, 67062]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [4527, 65965]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [4527, 65965, 87726]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [4527, 33849, 50403, 65965, 67062, 87726]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [26317, 85541]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [26317, 41093, 85541]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [52317, 55929]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [50296, 52317, 55929]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [26317, 41093, 50296, 52317, 55929, 85541]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [4527, 26317, 33849, 41093, 50296, 50403, 52317, 55929, 65965, 67062, 85541, 87726]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [4527, 26317, 33849, 34499, 41093, 42923, 44735, 48925, 50296, 50403, 52317, 55929, 59481, 60251, 61127, 61873, 62696, 65965, 67062, 73104, 80720, 85541, 87726, 90222]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [73751, 75220]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [57360, 73751, 75220]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [90382, 95209]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [90382, 95209, 96003]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [57360, 73751, 75220, 90382, 95209, 96003]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [8951, 87875]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [8951, 50174, 87875]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [51226, 87709]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [42676, 51226, 87709]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [8951, 42676, 50174, 51226, 87709, 87875]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [8951, 42676, 50174, 51226, 57360, 73751, 75220, 87709, 87875, 90382, 95209, 96003]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [59543, 93182]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [41841, 59543, 93182]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [40267, 47245]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [40267, 47245, 74847]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [40267, 41841, 47245, 59543, 74847, 93182]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [52743, 64601]
+
+24-10-2018 17:40:44 DEBUG [main] MergeSorter - [52743, 64601, 79246]
